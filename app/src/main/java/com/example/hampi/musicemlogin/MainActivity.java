@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     private EmotionServiceClient client;
     private static final int REQUEST_SELECT_IMAGE = 0;
     private static final int REQUEST_TAKE_PHOTO = 0;
-//Akram
+//Humpy Reddy
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

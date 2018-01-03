@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.microsoft.projectoxford:emotion-1.0.355">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emotion-1.0.355.aar/115a779d16c31c0ffeb110ea721544d0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emotion-1.0.355.aar/115a779d16c31c0ffeb110ea721544d0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emotion-1.0.355.aar/e1aaf4c5201a0c66868cd57b655378b8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emotion-1.0.355.aar/e1aaf4c5201a0c66868cd57b655378b8/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

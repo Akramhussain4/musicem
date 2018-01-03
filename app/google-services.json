@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "774041571476",
+    "firebase_url": "https://musicapp-a83fc.firebaseio.com",
+    "project_id": "musicapp-a83fc",
+    "storage_bucket": "musicapp-a83fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774041571476:android:09ed08a0befc8b78",
+        "android_client_info": {
+          "package_name": "com.example.hampi.musicemlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774041571476-t2isut8v5qdb8juepu2c6n6umsuj1ab1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hampi.musicemlogin",
+            "certificate_hash": "dd3b7240d877f31b607adb6facb99a155fa66c97"
+          }
+        },
+        {
+          "client_id": "774041571476-bmcsgji2vg1fa0eis6e6rj01i69baq4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLtsGJ2sN1DybyT5Q3glgEgQ9n8p8ib5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774041571476-bmcsgji2vg1fa0eis6e6rj01i69baq4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

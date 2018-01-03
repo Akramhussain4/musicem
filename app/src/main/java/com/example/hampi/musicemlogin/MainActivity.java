@@ -14,8 +14,6 @@ import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.widget.Button;
-import android.widget.ProgressBar;
 import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
@@ -40,55 +38,33 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    ///Akram Hussain
-
     private Uri mUriPhotoTaken;
+    private FirebaseAuth auth;
+    private String status;
+    private Bitmap mBitmap;
+    private EmotionServiceClient client;
+    private static final int REQUEST_SELECT_IMAGE = 0;
     private static final int REQUEST_TAKE_PHOTO = 0;
 
-
-    private ProgressBar progressBar;
-    private FirebaseAuth auth;
-    String status;
-
-
-    // The button to select an image
-    private Button mButtonSelectImage;
-
-    // The URI of the image selected to detect.
-    private Uri mImageUri;
-
-    //private TextView mEditText;
-
-    private EmotionServiceClient client;
-
-    private Bitmap mBitmap;
-    private static final int REQUEST_SELECT_IMAGE = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recognize);
 
-
-
         auth = FirebaseAuth.getInstance();
-
-
         //get current user
         final FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-       // setDataToView(user);
-
         authListener = new FirebaseAuth.AuthStateListener() {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser user = firebaseAuth.getCurrentUser();
                 if (user == null) {
-                    // user auth state is changed - user is null
-                    // launch login activity
                     startActivity(new Intent(MainActivity.this, LoginActivity.class));
                     finish();
                 }
             }
         };
+
         Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         if(intent.resolveActivity(getPackageManager()) != null) {
             // Save the photo taken to a temporary file.
@@ -99,12 +75,9 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra(MediaStore.EXTRA_OUTPUT, mUriPhotoTaken);
                 startActivityForResult(intent, REQUEST_TAKE_PHOTO);
             } catch (IOException e) {
-               // Log.e(getMessage());
+                //
             }
         }
-
-
-
 
     // this listener will be called when there is change in firebase user session
     FirebaseAuth.AuthStateListener authListener = new FirebaseAuth.AuthStateListener() {
@@ -125,25 +98,16 @@ public class MainActivity extends AppCompatActivity {
 
 
     };
-
-
-
-
         if (client == null) {
             client = new EmotionServiceRestClient(getString(R.string.subscription_key));
         }
-        //mEditText = (TextView) findViewById(R.id.editText);
     }
 
+         //sign out method
+        /*public void signOut() {
+                auth.signOut();
+         }*/
 
-
-
-    //sign out method
-  /**  public void signOut() {
-       auth.signOut();
-**/
-
-// this listener will be called when there is change in firebase user session
         FirebaseAuth.AuthStateListener authListener = new FirebaseAuth.AuthStateListener() {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
@@ -178,17 +142,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-
-
-
-
-
-
-
-
-
-
-
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         Log.d("RecognizeActivity", "onActivityResult");
@@ -196,22 +149,14 @@ public class MainActivity extends AppCompatActivity {
             case REQUEST_SELECT_IMAGE:
                 if (resultCode == RESULT_OK) {
                     // If image is selected successfully, set the image URI and bitmap.
-                //   mImageUri = data.getData();
-
+                   //   mImageUri = data.getData();
                     mBitmap = ImageHelper.loadSizeLimitedBitmapFromUri(
                            mUriPhotoTaken, getContentResolver());
                     if (mBitmap != null) {
-
-                        // Show the image on screen.
-
-
-                        // Add detection log.
                         Log.d("RecognizeActivity", "Image: " + mUriPhotoTaken + " resized to " + mBitmap.getWidth()
                                 + "x" + mBitmap.getHeight());
                         doRecognize();
-
                     }
-
                 }
                 break;
             default:
@@ -220,24 +165,22 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void doRecognize() {
-//        mButtonSelectImage.setEnabled(false);
-
         // Do emotion detection using auto-detected faces.
         try {
             new MainActivity.doRequest(false).execute();
         } catch (Exception e) {
-            //mEditText.append("Error encountered. Exception is: " + e.toString());
+            //
         }
 
         String faceSubscriptionKey = getString(R.string.faceSubscription_key);
         if (faceSubscriptionKey.equalsIgnoreCase("Please_add_the_face_subscription_key_here")) {
-            //mEditText.append("\n\nThere is no face subscription key in res/values/strings.xml. Skip the sample for detecting emotions using face rectangles\n");
+            //
         } else {
             // Do emotion detection using face rectangles provided by Face API.
             try {
                 new MainActivity.doRequest(true).execute();
             } catch (Exception e) {
-              //  mEditText.append("Error encountered. Exception is: " + e.toString());
+              //
             }
         }
     }
@@ -245,33 +188,20 @@ public class MainActivity extends AppCompatActivity {
 
 
     private List<RecognizeResult> processWithAutoFaceDetection() throws EmotionServiceException, IOException {
+
         Log.d("emotion", "Start emotion detection with auto-face detection");
-
         Gson gson = new Gson();
-
         // Put the image into an input stream for detection.
         ByteArrayOutputStream output = new ByteArrayOutputStream();
         mBitmap.compress(Bitmap.CompressFormat.JPEG, 100, output);
         ByteArrayInputStream inputStream = new ByteArrayInputStream(output.toByteArray());
 
         long startTime = System.currentTimeMillis();
-        // -----------------------------------------------------------------------
-        // KEY SAMPLE CODE STARTS HERE
-        // -----------------------------------------------------------------------
-
         List<RecognizeResult> result = null;
-        //
-        // Detect emotion by auto-detecting faces in the image.
-        //
         result = this.client.recognizeImage(inputStream);
-
         String json = gson.toJson(result);
         Log.d("result", json);
-
         Log.d("emotion", String.format("Detection done. Elapsed time: %d ms", (System.currentTimeMillis() - startTime)));
-        // -----------------------------------------------------------------------
-        // KEY SAMPLE CODE ENDS HERE
-        // -----------------------------------------------------------------------
         return result;
     }
 
@@ -308,16 +238,10 @@ public class MainActivity extends AppCompatActivity {
 
             timeMark = System.currentTimeMillis();
             Log.d("emotion", "Start emotion detection using Emotion API");
-            // -----------------------------------------------------------------------
-            // KEY SAMPLE CODE STARTS HERE
-            // -----------------------------------------------------------------------
             result = this.client.recognizeImage(inputStream, faceRectangles);
 
             String json = gson.toJson(result);
             Log.d("result", json);
-            // -----------------------------------------------------------------------
-            // KEY SAMPLE CODE ENDS HERE
-            // -----------------------------------------------------------------------
             Log.d("emotion", String.format("Emotion detection is done. Elapsed time: %d ms", (System.currentTimeMillis() - timeMark)));
         }
         return result;
@@ -339,13 +263,13 @@ public class MainActivity extends AppCompatActivity {
                 try {
                     return processWithAutoFaceDetection();
                 } catch (Exception e) {
-                    this.e = e;    // Store error
+                    this.e = e;
                 }
             } else {
                 try {
                     return processWithFaceRectangles();
                 } catch (Exception e) {
-                    this.e = e;    // Store error
+                    this.e = e;
                 }
             }
             return null;
@@ -357,16 +281,16 @@ public class MainActivity extends AppCompatActivity {
             // Display based on error existence
 
             if (this.useFaceRectangles == false) {
-               // mEditText.append("\n\nRecognizing emotions with auto-detected face rectangles...\n");
+               //
             } else {
-                //mEditText.append("\n\nRecognizing emotions with existing face rectangles from Face API...\n");
+                //
             }
             if (e != null) {
-              //  mEditText.setText("Error: " + e.getMessage());
+              //
                 this.e = null;
             } else {
                 if (result.size() == 0) {
-                 //   mEditText.append("No emotion detected :(");
+                 //
                 } else {
                     Integer count = 0;
                     // Covert bitmap to a mutable bitmap by copying it
@@ -377,16 +301,9 @@ public class MainActivity extends AppCompatActivity {
                     paint.setStyle(Paint.Style.STROKE);
                     paint.setStrokeWidth(5);
                     paint.setColor(Color.RED);
-
-
                     for (RecognizeResult r : result) {
-
-
                          status = getEmo(r);
-
-
                     }
-
                     for (RecognizeResult t : result) {
                         String.format("\nFace #%1$d \n", count);
                         String.format("\t anger: %1$.5f\n", t.scores.anger);
@@ -397,26 +314,11 @@ public class MainActivity extends AppCompatActivity {
                         String.format("\t neutral: %1$.5f\n", t.scores.neutral);
                         String.format("\t sadness: %1$.5f\n", t.scores.sadness);
                         String.format("\t surprise: %1$.5f\n", t.scores.surprise);
-
                     }
-
-
                     Log.d("response",status);
-
-
-
-
                 }
-
-
             }
-
-
         }
-
-
-
-
 
         private String getEmo(RecognizeResult res) {
             List<Double> list = new ArrayList<>();
@@ -432,8 +334,6 @@ public class MainActivity extends AppCompatActivity {
             list.add(scores.surprise);
 
             Collections.sort(list);
-
-
 
             double maxNum = list.get(list.size() - 1);
             if(maxNum == scores.anger)
@@ -454,9 +354,7 @@ public class MainActivity extends AppCompatActivity {
                 return "Surprise";
             else
                 return "Neutral";
-
         }
-
     }
 }
 

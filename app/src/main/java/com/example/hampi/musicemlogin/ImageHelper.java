@@ -45,9 +45,6 @@ import android.provider.MediaStore;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * Defined several functions to load, draw, save, resize, and rotate images.
- */
 public class ImageHelper {
 
     // The maximum side length of the image to detect, to keep the size of image less than 4MB.

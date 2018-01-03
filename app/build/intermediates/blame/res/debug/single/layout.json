@@ -4,16 +4,16 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\153c5e90d7b83f386362b96e9739f461\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Hampi\\Desktop\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\layout\\design_navigation_item.xml"
+        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\f09ff7ccc6d405f9c16a104d062b0ec4\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\f09ff7ccc6d405f9c16a104d062b0ec4\\res\\layout\\notification_action.xml"
+        "merged": "C:\\Users\\Hampi\\Desktop\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\Hampi\\Desktop\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hampi\\Desktop\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -52,12 +52,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
         "source": "D:\\MusicEmLogin\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\Hampi\\Desktop\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",

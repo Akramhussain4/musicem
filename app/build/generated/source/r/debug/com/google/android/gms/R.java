@@ -58,12 +58,12 @@ public final class R {
         public static final int button = 0x7f0d006c;
         public static final int center = 0x7f0d003e;
         public static final int dark = 0x7f0d0064;
-        public static final int email = 0x7f0d00a4;
+        public static final int email = 0x7f0d00a5;
         public static final int icon_only = 0x7f0d0061;
         public static final int light = 0x7f0d0065;
         public static final int none = 0x7f0d0025;
         public static final int normal = 0x7f0d0027;
-        public static final int progressBar = 0x7f0d00ab;
+        public static final int progressBar = 0x7f0d00ac;
         public static final int radio = 0x7f0d008e;
         public static final int standard = 0x7f0d0062;
         public static final int text = 0x7f0d0011;

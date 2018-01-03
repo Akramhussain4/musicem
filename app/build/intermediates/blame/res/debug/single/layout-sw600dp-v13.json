@@ -2,5 +2,9 @@
     {
         "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\0fbfa7149f438e97c04ada09fdaa1329\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\musicem\app\src\main\assets"/><source path="D:\musicem\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\musicem\app\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\MusicEmLogin\app\src\main\assets"/><source path="D:\MusicEmLogin\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\MusicEmLogin\app\src\debug\assets"/></dataSet></merger>

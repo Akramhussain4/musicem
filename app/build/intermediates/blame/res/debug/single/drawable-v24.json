@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_launcher_foreground.xml",
+        "source": "D:\\MusicEmLogin\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
         "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_launcher_foreground.xml",
         "source": "D:\\musicem\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     }

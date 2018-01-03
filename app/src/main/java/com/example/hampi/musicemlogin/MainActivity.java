@@ -14,6 +14,7 @@ import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
@@ -45,11 +46,13 @@ public class MainActivity extends AppCompatActivity {
     private EmotionServiceClient client;
     private static final int REQUEST_SELECT_IMAGE = 0;
     private static final int REQUEST_TAKE_PHOTO = 0;
-//Humpy Reddy
+    TextView textView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_recognize);
+        textView = (TextView) findViewById(R.id.editText);
         auth = FirebaseAuth.getInstance();
         //get current user
         final FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
@@ -65,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
         };
 
         Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-        if(intent.resolveActivity(getPackageManager()) != null) {
+        if (intent.resolveActivity(getPackageManager()) != null) {
             // Save the photo taken to a temporary file.
             File storageDir = getExternalFilesDir(Environment.DIRECTORY_PICTURES);
             try {
@@ -78,36 +81,9 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-    // this listener will be called when there is change in firebase user session
-    FirebaseAuth.AuthStateListener authListener = new FirebaseAuth.AuthStateListener() {
-        @SuppressLint("SetTextI18n")
-        @Override
-        public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
-            FirebaseUser user = firebaseAuth.getCurrentUser();
-            if (user == null) {
-                // user auth state is changed - user is null
-                // launch login activity
-                startActivity(new Intent(MainActivity.this, LoginActivity.class));
-                finish();
-            } else {
-                Toast.makeText(getApplicationContext(), "fail", Toast.LENGTH_SHORT).show();
-
-            }
-        }
-
-
-    };
-        if (client == null) {
-            client = new EmotionServiceRestClient(getString(R.string.subscription_key));
-        }
-    }
-
-         //sign out method
-        /*public void signOut() {
-                auth.signOut();
-         }*/
-
+        // this listener will be called when there is change in firebase user session
         FirebaseAuth.AuthStateListener authListener = new FirebaseAuth.AuthStateListener() {
+            @SuppressLint("SetTextI18n")
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser user = firebaseAuth.getCurrentUser();
@@ -116,9 +92,36 @@ public class MainActivity extends AppCompatActivity {
                     // launch login activity
                     startActivity(new Intent(MainActivity.this, LoginActivity.class));
                     finish();
+                } else {
+                    Toast.makeText(getApplicationContext(), "fail", Toast.LENGTH_SHORT).show();
+
                 }
             }
+
+
         };
+        if (client == null) {
+            client = new EmotionServiceRestClient(getString(R.string.subscription_key));
+        }
+    }
+
+    //sign out method
+        /*public void signOut() {
+                auth.signOut();
+         }*/
+
+    FirebaseAuth.AuthStateListener authListener = new FirebaseAuth.AuthStateListener() {
+        @Override
+        public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
+            FirebaseUser user = firebaseAuth.getCurrentUser();
+            if (user == null) {
+                // user auth state is changed - user is null
+                // launch login activity
+                startActivity(new Intent(MainActivity.this, LoginActivity.class));
+                finish();
+            }
+        }
+    };
 
 
     @Override
@@ -148,9 +151,9 @@ public class MainActivity extends AppCompatActivity {
             case REQUEST_SELECT_IMAGE:
                 if (resultCode == RESULT_OK) {
                     // If image is selected successfully, set the image URI and bitmap.
-                   //   mImageUri = data.getData();
+                    //   mImageUri = data.getData();
                     mBitmap = ImageHelper.loadSizeLimitedBitmapFromUri(
-                           mUriPhotoTaken, getContentResolver());
+                            mUriPhotoTaken, getContentResolver());
                     if (mBitmap != null) {
                         Log.d("RecognizeActivity", "Image: " + mUriPhotoTaken + " resized to " + mBitmap.getWidth()
                                 + "x" + mBitmap.getHeight());
@@ -179,11 +182,10 @@ public class MainActivity extends AppCompatActivity {
             try {
                 new MainActivity.doRequest(true).execute();
             } catch (Exception e) {
-              //
+                //
             }
         }
     }
-
 
 
     private List<RecognizeResult> processWithAutoFaceDetection() throws EmotionServiceException, IOException {
@@ -277,19 +279,18 @@ public class MainActivity extends AppCompatActivity {
         @Override
         protected void onPostExecute(List<RecognizeResult> result) {
             super.onPostExecute(result);
-            // Display based on error existence
 
             if (this.useFaceRectangles == false) {
-               //
+                // mEditText.append("\n\nRecognizing emotions with auto-detected face rectangles...\n");
             } else {
-                //
+                //mEditText.append("\n\nRecognizing emotions with existing face rectangles from Face API...\n");
             }
             if (e != null) {
-              //
+                //  mEditText.setText("Error: " + e.getMessage());
                 this.e = null;
             } else {
                 if (result.size() == 0) {
-                 //
+                    //   mEditText.append("No emotion detected :(");
                 } else {
                     Integer count = 0;
                     // Covert bitmap to a mutable bitmap by copying it
@@ -300,9 +301,11 @@ public class MainActivity extends AppCompatActivity {
                     paint.setStyle(Paint.Style.STROKE);
                     paint.setStrokeWidth(5);
                     paint.setColor(Color.RED);
+
                     for (RecognizeResult r : result) {
-                         status = getEmo(r);
+                        status = getEmo(r);
                     }
+
                     for (RecognizeResult t : result) {
                         String.format("\nFace #%1$d \n", count);
                         String.format("\t anger: %1$.5f\n", t.scores.anger);
@@ -313,11 +316,17 @@ public class MainActivity extends AppCompatActivity {
                         String.format("\t neutral: %1$.5f\n", t.scores.neutral);
                         String.format("\t sadness: %1$.5f\n", t.scores.sadness);
                         String.format("\t surprise: %1$.5f\n", t.scores.surprise);
+
                     }
-                    Log.d("response",status);
+                    Log.d("response", status);
+                    textView.setText(status);
+                    Intent intent = new Intent(getApplicationContext(),DisplayMusic.class);
+                    intent.putExtra("emotion",status);
+                    startActivity(intent);
                 }
             }
         }
+
 
         private String getEmo(RecognizeResult res) {
             List<Double> list = new ArrayList<>();
@@ -335,27 +344,29 @@ public class MainActivity extends AppCompatActivity {
             Collections.sort(list);
 
             double maxNum = list.get(list.size() - 1);
-            if(maxNum == scores.anger)
+            if (maxNum == scores.anger)
                 return "Anger";
-            else if(maxNum == scores.happiness)
+            else if (maxNum == scores.happiness)
                 return "Happy";
-            else if(maxNum == scores.contempt)
+            else if (maxNum == scores.contempt)
                 return "Contemp";
-            else if(maxNum == scores.disgust)
+            else if (maxNum == scores.disgust)
                 return "Disgust";
-            else if(maxNum == scores.fear)
+            else if (maxNum == scores.fear)
                 return "Fear";
-            else if(maxNum == scores.neutral)
+            else if (maxNum == scores.neutral)
                 return "Neutral";
-            else if(maxNum == scores.sadness)
+            else if (maxNum == scores.sadness)
                 return "Sadness";
-            else if(maxNum == scores.surprise)
+            else if (maxNum == scores.surprise)
                 return "Surprise";
             else
                 return "Neutral";
         }
     }
 }
+
+
 
 
 

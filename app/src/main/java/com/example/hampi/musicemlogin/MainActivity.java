@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         textView = (TextView) findViewById(R.id.editText);
         p = new ProgressDialog(this);
-        p.setMessage("Analyzing Emotions!!!");
+        p.setMessage("Analyzing Emotions!!");
         p.setIndeterminate(false);
         p.setProgressStyle(ProgressDialog.STYLE_SPINNER);
         p.setCancelable(false);
@@ -282,15 +282,7 @@ public class MainActivity extends AppCompatActivity {
             }
             return null;
         }
-    /*    @Override
-        protected void onPreExecute(){
-            p = new ProgressDialog(getApplication());
-            p.setMessage("Saving image to SD Card");
-            p.setIndeterminate(false);
-            p.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-            p.setCancelable(false);
-            p.show();
-        }*/
+
         @Override
         protected void onPostExecute(List<RecognizeResult> result) {
             super.onPostExecute(result);

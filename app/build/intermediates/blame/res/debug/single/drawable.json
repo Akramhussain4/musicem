@@ -92,12 +92,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher_background.xml",
         "source": "D:\\MusicEmLogin\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",

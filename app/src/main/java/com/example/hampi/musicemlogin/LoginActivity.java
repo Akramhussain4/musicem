@@ -34,7 +34,7 @@ import com.karan.churi.PermissionManager.PermissionManager;
 
 
 public class LoginActivity extends AppCompatActivity {
-    private static final int RC_SIGN_IN = 0;
+    private static final int RC_SIGN_IN =123;
     private EditText inputEmail, inputPassword;
     private FirebaseAuth auth;
     private Button btnSignup, btnLogin, btnReset;

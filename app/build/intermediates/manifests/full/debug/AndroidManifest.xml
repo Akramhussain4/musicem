@@ -35,7 +35,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.hampi.musicemlogin.MainActivity" >
+        <activity android:name="com.example.hampi.musicemlogin.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -43,7 +43,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.hampi.musicemlogin.LoginActivity"
+            android:name="com.example.hampi.musicemlogin.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity

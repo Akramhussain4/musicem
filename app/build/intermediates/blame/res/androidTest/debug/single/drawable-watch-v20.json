@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.6.2.aar\\b53cae85beffa58204d6c9c906b1d9ae\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.6.2.aar\\facf89f99e666c5b10dcc2960d4587b2\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
     },
@@ -12,15 +8,7 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.6.2.aar\\facf89f99e666c5b10dcc2960d4587b2\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.6.2.aar\\b53cae85beffa58204d6c9c906b1d9ae\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.6.2.aar\\facf89f99e666c5b10dcc2960d4587b2\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-11.6.2.aar\\b53cae85beffa58204d6c9c906b1d9ae\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
     }
 ]

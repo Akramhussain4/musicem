@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.rapidapi:rapidconnect-android-0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rapidconnect-android-0.1.aar/f4507fc96b3a0a7b139324e3a64a6a7c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rapidconnect-android-0.1.aar/f4507fc96b3a0a7b139324e3a64a6a7c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rapidapi/rapidconnect-android/0.1/1941b548708120474378d654c9a7f2e4decc9517/rapidconnect-android-0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

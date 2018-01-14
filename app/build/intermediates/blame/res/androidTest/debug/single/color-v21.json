@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v21\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v21\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
     }

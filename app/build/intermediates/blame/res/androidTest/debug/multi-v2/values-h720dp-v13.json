@@ -16,40 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\musicem\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "66",
-                        "endOffsets": "117"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\MusicEmLogin\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "66",
-                        "endOffsets": "117"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-h720dp-v13\\values-h720dp-v13.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

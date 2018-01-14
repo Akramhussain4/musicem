@@ -54,7 +54,10 @@
                 <data android:scheme="@string/fb_login_protocol_scheme" />
             </intent-filter>
         </activity>
-        <activity android:name=".DisplayMusic"></activity>
+        <activity android:name=".DisplayMusic" />
+        <activity android:name=".MusicTag" />
+        <activity android:name=".MusicPlayer" />
+        <activity android:name=".MusicList"></activity>
     </application>
 
 </manifest>

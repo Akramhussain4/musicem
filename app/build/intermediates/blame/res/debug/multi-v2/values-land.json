@@ -1,40 +1,6 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "232"
-                    },
-                    "to": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "328",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "505"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
             "map": [
                 {
@@ -92,40 +58,6 @@
                 },
                 {
                     "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\musicem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "232"
-                    },
-                    "to": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "328",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "505"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

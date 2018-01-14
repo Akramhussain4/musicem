@@ -4,24 +4,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\0fbfa7149f438e97c04ada09fdaa1329\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_password_eye.xml",
@@ -36,28 +24,8 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\drawable-v21\\avd_show_password.xml"
-    },
-    {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_show_password.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\0fbfa7149f438e97c04ada09fdaa1329\\res\\drawable-v21\\avd_show_password.xml"
-    },
-    {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\f9f45a0b477b1cdc5ead2c1136644c22\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
-    },
-    {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.1.aar\\a37cd2631078cbb6bd54ae2ecb56e86c\\res\\drawable-v21\\avd_hide_password.xml"
-    },
-    {
-        "merged": "D:\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Hampi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7e0bc3fb49415e7a6021daf7e6af11a5\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_hide_password.xml",

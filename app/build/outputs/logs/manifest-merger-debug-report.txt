@@ -1,13 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
+ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
 MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\fff8cedd91e7db9dba9e47587e453725\AndroidManifest.xml:16:1-21:12
 MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\facf89f99e666c5b10dcc2960d4587b2\AndroidManifest.xml:16:1-26:12
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\5688b7f0fdf8bbff30685cd2bb41ba20\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\0fbfa7149f438e97c04ada09fdaa1329\AndroidManifest.xml:17:1-31:12
+MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\f4507fc96b3a0a7b139324e3a64a6a7c\AndroidManifest.xml:2:1-17:12
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\26efd4695c8ba7e881a8cf7bd97fa47d\AndroidManifest.xml:2:1-17:12
 MERGED from [com.facebook.android:facebook-login:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\5bb4bbf387170913284c98e493252534\AndroidManifest.xml:21:1-31:12
 MERGED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\6b4da4041d7376c9aa3f14a717d5f7e1\AndroidManifest.xml:21:1-36:12
@@ -48,20 +49,20 @@ MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hus
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\2b82e96665e46c3b43dd96b890af91e5\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\72055edce1433f763bffcaa4f3bce11c\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\deb7be577faf192e489240a008f8dc4a\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
 	package
 		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
 		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
+		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-60:12
+		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:11-69
@@ -94,7 +95,7 @@ ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
 		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:8:22-62
 application
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:10:5-58:19
+ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:10:5-61:19
 MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\fff8cedd91e7db9dba9e47587e453725\AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\fff8cedd91e7db9dba9e47587e453725\AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\facf89f99e666c5b10dcc2960d4587b2\AndroidManifest.xml:19:5-25:19
@@ -103,6 +104,8 @@ MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\5688b7f0fdf8bbff30685cd2bb41ba20\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\0fbfa7149f438e97c04ada09fdaa1329\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\0fbfa7149f438e97c04ada09fdaa1329\AndroidManifest.xml:25:5-29:19
+MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\f4507fc96b3a0a7b139324e3a64a6a7c\AndroidManifest.xml:11:5-15:19
+MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\f4507fc96b3a0a7b139324e3a64a6a7c\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\26efd4695c8ba7e881a8cf7bd97fa47d\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\26efd4695c8ba7e881a8cf7bd97fa47d\AndroidManifest.xml:11:5-15:19
 MERGED from [com.facebook.android:facebook-login:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\5bb4bbf387170913284c98e493252534\AndroidManifest.xml:28:5-29:19
@@ -246,9 +249,21 @@ ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:54:17-75
 	android:scheme
 		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:54:23-72
 activity#com.example.hampi.musicemlogin.DisplayMusic
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:57:9-59
+ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:57:9-50
 	android:name
 		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:57:19-47
+activity#com.example.hampi.musicemlogin.MusicTag
+ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:58:9-46
+	android:name
+		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:58:19-43
+activity#com.example.hampi.musicemlogin.MusicPlayer
+ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:59:9-49
+	android:name
+		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:59:19-46
+activity#com.example.hampi.musicemlogin.MusicList
+ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:60:9-56
+	android:name
+		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:60:19-44
 uses-sdk
 INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
@@ -261,6 +276,8 @@ MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\5688b7f0fdf8bbff30685cd2bb41ba20\AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\0fbfa7149f438e97c04ada09fdaa1329\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\0fbfa7149f438e97c04ada09fdaa1329\AndroidManifest.xml:21:5-23:62
+MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\f4507fc96b3a0a7b139324e3a64a6a7c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\f4507fc96b3a0a7b139324e3a64a6a7c\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\26efd4695c8ba7e881a8cf7bd97fa47d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\26efd4695c8ba7e881a8cf7bd97fa47d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.android:facebook-login:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\5bb4bbf387170913284c98e493252534\AndroidManifest.xml:24:5-26:41

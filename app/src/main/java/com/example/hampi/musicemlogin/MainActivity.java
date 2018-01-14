@@ -1,6 +1,7 @@
 package com.example.hampi.musicemlogin;
 
 import android.annotation.SuppressLint;
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -38,7 +39,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-
+    private ProgressDialog p;
     private Uri mUriPhotoTaken;
     private FirebaseAuth auth;
     private String status;
@@ -51,8 +52,14 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_recognize);
+        setContentView(R.layout.activity_main);
         textView = (TextView) findViewById(R.id.editText);
+        p = new ProgressDialog(this);
+        p.setMessage("Analyzing Emotions!!!");
+        p.setIndeterminate(false);
+        p.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+        p.setCancelable(false);
+        p.show();
         auth = FirebaseAuth.getInstance();
         //get current user
         final FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
@@ -275,7 +282,15 @@ public class MainActivity extends AppCompatActivity {
             }
             return null;
         }
-
+    /*    @Override
+        protected void onPreExecute(){
+            p = new ProgressDialog(getApplication());
+            p.setMessage("Saving image to SD Card");
+            p.setIndeterminate(false);
+            p.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+            p.setCancelable(false);
+            p.show();
+        }*/
         @Override
         protected void onPostExecute(List<RecognizeResult> result) {
             super.onPostExecute(result);
@@ -318,8 +333,8 @@ public class MainActivity extends AppCompatActivity {
                         String.format("\t surprise: %1$.5f\n", t.scores.surprise);
 
                     }
-                    Log.d("response", status);
-                    textView.setText(status);
+                   /* Log.d("response", status);
+                    textView.setText(status);*/
                     Intent intent = new Intent(getApplicationContext(),DisplayMusic.class);
                     intent.putExtra("emotion",status);
                     startActivity(intent);

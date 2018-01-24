@@ -1,5 +1,6 @@
 package com.example.hampi.musicemlogin;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
@@ -10,10 +11,9 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.preference.PreferenceManager;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.SeekBar;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -24,7 +24,7 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
-public class MusicPlayer extends AppCompatActivity {
+public class MusicPlayer extends Activity {
     private ImageView b1,b2,b3,b4;
     private ImageView iv;
     private MediaPlayer mediaPlayer;
@@ -35,7 +35,7 @@ public class MusicPlayer extends AppCompatActivity {
     private Handler myHandler = new Handler();;
     private int forwardTime = 5000;
     private int backwardTime = 5000;
-    private SeekBar seekbar;
+    private ProgressBar seekbar;
     private TextView tx1,tx2;
 
     ImageView album_art;
@@ -53,17 +53,17 @@ public class MusicPlayer extends AppCompatActivity {
         setContentView(R.layout.activity_music_player);
 
         b1 = (ImageView) findViewById(R.id.button);
-        b2 = (ImageView) findViewById(R.id.button2);
+        //b2 = (ImageView) findViewById(R.id.button2);
         b3 = (ImageView)findViewById(R.id.button3);
         b4 = (ImageView)findViewById(R.id.button4);
-        iv = (ImageView)findViewById(R.id.imageView);
+     //   iv = (ImageView)findViewById(R.id.imageView);
         tx1 = (TextView)findViewById(R.id.textView2);
         tx2 = (TextView)findViewById(R.id.textView3);
 
-        album_art = (ImageView)findViewById(R.id.imageView);
+        //album_art = (ImageView)findViewById(R.id.imageView);
         album = (TextView)findViewById(R.id.album);
         artist = (TextView)findViewById(R.id.artist);
-        genre = (TextView)findViewById(R.id.genre);
+       // genre = (TextView)findViewById(R.id.genre);
 
         //get array list from shared preferences
         SharedPreferences sharedPrefs = PreferenceManager.getDefaultSharedPreferences(this);
@@ -83,21 +83,21 @@ public class MusicPlayer extends AppCompatActivity {
         try {
             art = metaRetriver.getEmbeddedPicture();
             Bitmap songImage = BitmapFactory.decodeByteArray(art, 0, art.length);
-            album_art.setImageBitmap(songImage);
+           // album_art.setImageBitmap(songImage);
             album.setText(metaRetriver .extractMetadata(MediaMetadataRetriever.METADATA_KEY_ALBUM));
             artist.setText(metaRetriver .extractMetadata(MediaMetadataRetriever.METADATA_KEY_ARTIST));
-            genre.setText(metaRetriver .extractMetadata(MediaMetadataRetriever.METADATA_KEY_GENRE));
+          //  genre.setText(metaRetriver .extractMetadata(MediaMetadataRetriever.METADATA_KEY_GENRE));
         } catch (Exception e) {
             album.setText("Unknown Album");
             artist.setText("Unknown Artist");
-            genre.setText("Unknown Genre");
+//            genre.setText("Unknown Genre");
         }
 
         //media player generation
         mediaPlayer = MediaPlayer.create(this, Uri.parse(songPath));
-        seekbar = (SeekBar)findViewById(R.id.seekBar);
+        seekbar = (ProgressBar)findViewById(R.id.seekBar);
         seekbar.setClickable(false);
-        b2.setEnabled(false);
+       // b2.setEnabled(false);
 
         b3.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -113,7 +113,7 @@ public class MusicPlayer extends AppCompatActivity {
                     oneTimeOnly = 1;
                 }
 
-                tx2.setText(String.format("%d min, %d sec",
+               tx2.setText(String.format("%d min, %d sec",
                         TimeUnit.MILLISECONDS.toMinutes((long) finalTime),
                         TimeUnit.MILLISECONDS.toSeconds((long) finalTime) -
                                 TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes((long)
@@ -129,12 +129,12 @@ public class MusicPlayer extends AppCompatActivity {
 
                 seekbar.setProgress((int)startTime);
                 myHandler.postDelayed(UpdateSongTime,100);
-                b2.setEnabled(true);
+               // b2.setEnabled(true);
                 b3.setEnabled(false);
             }
         });
 
-        b2.setOnClickListener(new View.OnClickListener() {
+       /* b2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(), "Pausing sound",Toast.LENGTH_SHORT).show();
@@ -142,7 +142,7 @@ public class MusicPlayer extends AppCompatActivity {
                 b2.setEnabled(false);
                 b3.setEnabled(true);
             }
-        });
+        });*/
 
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -173,7 +173,11 @@ public class MusicPlayer extends AppCompatActivity {
                 }
             }
         });
+
     }
+
+
+
 
     private Runnable UpdateSongTime = new Runnable() {
         public void run() {

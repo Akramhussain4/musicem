@@ -4,7 +4,7 @@
             "outputFile": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6cfd580bc8a70e179f7e446acca20539\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\153c5e90d7b83f386362b96e9739f461\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\ad01ab3fc28706a77d2d26789bc026ab\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -36,7 +36,7 @@
             "outputFile": "D:\\MusicEmLogin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\94ee08ca2fc14190e12e047547d6c50d\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6cfd580bc8a70e179f7e446acca20539\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -46,7 +46,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\153c5e90d7b83f386362b96e9739f461\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\ad01ab3fc28706a77d2d26789bc026ab\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

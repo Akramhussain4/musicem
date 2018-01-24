@@ -2,9 +2,5 @@
     {
         "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_launcher_foreground.xml",
         "source": "D:\\MusicEmLogin\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24\\ic_pause_black_24dp.png",
-        "source": "D:\\MusicEmLogin\\app\\src\\main\\res\\drawable-v24\\ic_pause_black_24dp.png"
     }
 ]

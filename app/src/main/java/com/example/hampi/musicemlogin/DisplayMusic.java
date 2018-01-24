@@ -1,5 +1,6 @@
 package com.example.hampi.musicemlogin;
 
+import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.ContentResolver;
 import android.content.Intent;
@@ -10,7 +11,6 @@ import android.os.Bundle;
 import android.os.StrictMode;
 import android.preference.PreferenceManager;
 import android.provider.MediaStore;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
@@ -18,7 +18,7 @@ import com.google.gson.Gson;
 
 import java.util.ArrayList;
 
-public class DisplayMusic extends AppCompatActivity {
+public class DisplayMusic extends Activity {
     private ArrayList<Songs> arrayTempList;
     MusicDatabaseHelper musicDatabaseHelper;
     private int oneTimeOnly = -1;

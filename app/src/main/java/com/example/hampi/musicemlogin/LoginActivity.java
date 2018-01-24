@@ -1,9 +1,9 @@
 package com.example.hampi.musicemlogin;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
-import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.View;
@@ -33,8 +33,8 @@ import com.google.firebase.auth.GoogleAuthProvider;
 import com.karan.churi.PermissionManager.PermissionManager;
 
 
-public class LoginActivity extends AppCompatActivity {
-    private static final int RC_SIGN_IN =123;
+public class LoginActivity extends Activity {
+    private static final int RC_SIGN_IN = 123;
     private EditText inputEmail, inputPassword;
     private FirebaseAuth auth;
     private Button btnSignup, btnLogin, btnReset;

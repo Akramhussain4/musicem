@@ -1,12 +1,12 @@
 package com.example.hampi.musicemlogin;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
@@ -26,7 +26,7 @@ import be.tarsos.dsp.pitch.PitchDetectionHandler;
 import be.tarsos.dsp.pitch.PitchDetectionResult;
 import be.tarsos.dsp.pitch.PitchProcessor;
 
-public class MusicTag extends AppCompatActivity {
+public class MusicTag extends Activity {
     private ArrayList<Songs> arrayTempList;
     private ArrayList<Songs> arrayList;
     private ArrayList<Songs> arrayModifiedList;

@@ -17,6 +17,44 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ከሚከተለው ጋር ያጋሩ"</string>
     <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"ከ<ns1:g id="APPLICATION_NAME">%s</ns1:g> ጋር አጋራ"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ሰብስብ"</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"ማስታወቂያ"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"ወደ %s cast በማድረግ ላይ"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"የተዘጉ መግለጫ ጽሑፎች"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"የተዘጉ መግለጫ ጽሑፎች አይገኙም"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"ከ<ns1:g id="NAME">%1$s</ns1:g> ጋር በመገናኘት ላይ"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"ግንኙነት አቋርጥ"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"የcast መቀበያው ማስታወቂያ እያጫወተ ሳለ ምስል ይታያል"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"ማስታወቂያ በሂደት ላይ…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"የአልበም ስነ-ጥበብ"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"የቀጥታ ዥረት"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"በመጫን ላይ…"</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"ዝለል"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"ያስተላልፉ"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"አስር ሰከንዶች ወደፊት"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"ሰላሳ ሰከንዶች ወደፊት"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"ድምጽ-ከል አድርግ"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"ከ<ns1:g id="NAME">%1$s</ns1:g> ጋር ተገናኝቷል"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"ከ<ns1:g id="NAME">%1$s</ns1:g> ጋር በመገናኘት ላይ"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"ግንኙነት አቋርጥ"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"ለአፍታ አቁም"</string>
+    <string msgid="5906987965619702702" name="cast_play">"አጫውት"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"ወደኋላ አጠንጥን"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"አስር ሰከንዶች ወደኋላ"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"ሰላሳ ሰከንዶች ወደኋላ"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"የመልሶ ማጫወት መፈለጊያ መቆጣጠሪያ"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"ወደ ቀጣዩ ንጥል ዝለል"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"ወደ ቀዳሚው ንጥል ዝለል"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"አቁም"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"የቀጥታ ዥረቱን አቁም"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"ኦዲዮ"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"ይቅር"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"ዝግ መግለጫ ጽሑፎች"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"<ns1:g id="POSITION">%1$d</ns1:g>ን ይከታተሉ"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"ምንም የለም"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"እሺ"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"የግርጌ ጽሑፍ"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"ድምፅ-ከል አንሳ"</string>
     <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"አንቃ"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play አገልግሎቶችን ካላነቁ በስተቀር <ns1:g id="APP_NAME">%1$s</ns1:g> አይሰራም።"</string>
     <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play አገልግሎቶችን ያንቁ"</string>
@@ -34,6 +72,78 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"ስልክ ላይ ክፈት"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"ግባ"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"በGoogle ይግቡ"</string>
+    <string name="exo_controls_fastforward_description">"በፍጥነት አሳልፍ"</string>
+    <string name="exo_controls_next_description">"ቀጣይ ትራክ"</string>
+    <string name="exo_controls_pause_description">"ለአፍታ አቁም"</string>
+    <string name="exo_controls_play_description">"አጫውት"</string>
+    <string name="exo_controls_previous_description">"ቀዳሚ ትራክ"</string>
+    <string name="exo_controls_repeat_all_description">"ሁሉንም ድገም"</string>
+    <string name="exo_controls_repeat_off_description">"ምንም አትድገም"</string>
+    <string name="exo_controls_repeat_one_description">"አንዱን ድገም"</string>
+    <string name="exo_controls_rewind_description">"ወደኋላ አጠንጥን"</string>
+    <string name="exo_controls_stop_description">"አቁም"</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"ቀጥል"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"ጨርስ"</string>
+    <string msgid="3650250994187305396" name="lb_media_player_error">"የMediaPlayer ስህተት ኮድ %1$d ተጨማሪ %2$d"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"የዳሰሳ ምናሌ"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"ቀጣይ"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"ይጀምሩ"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"ዝግ የምስል ስር ጽሑፍ አጻጻፍን አሰናክል"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"ዝግ የምስል ስር ጽሑፍ አጻጻፍን አንቃ"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"በፍጥነት አሳልፍ"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"በ%1$dX ወደፊት አፍጥን"</string>
+    <string msgid="8940984081242033574" name="lb_playback_controls_hidden">"የሚዲያ መቆጣጠሪያዎች ተደብቀዋል። d-pad ን ለማሳየት ይጫኑ"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"ከፍተኛ ጥራትን አሰናክል"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"ከፍተኛ ጥራትን አንቃ"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"ተጨማሪ እርምጃዎች"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"ለአፍታ አቁም"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"ስዕሉን በስዕል ሁነታ ውስጥ ያክሉ"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"አጫውት"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"ሁሉንም ድገም"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"ምንም አትድገም"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"አንዱን ድገም"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"ወደኋላ አጠንጥን"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"በ%1$dX አጠንጥን"</string>
+    <string msgid="6382160135512023238" name="lb_playback_controls_shown">"የሚዲያ መቆጣጠሪያዎች እንዲታዩ ተደርገዋል"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"መበወዣን አሰናክል"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"መበወዣን አንቃ"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"የሚቀጥለውን ዝለል"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"የቀደመውን ዝለል"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"አውራ ጣት ወደታችን አትምረጥ"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"አውራ ጣት ወደታችን ምረጥ"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"አውራጣት ወደ ላይን አትምረጥ"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"አውራ ጣት ወደላይን ምረጥ"</string>
+    <string msgid="3208380806582304911" name="lb_playback_time_separator">"/"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"ይፈልጉ"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"ለመፈለግ ይናገሩ"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> ፈልግ"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>ን ለመፈለግ ይናገሩ"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">"፦"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"የCast አዝራር"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Cast አዝራር። ተገናኝቷል"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Cast አዝራር በማገናኘት ላይ"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Cast አዝራር። ግንኙነት ተቋርጧል"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"መሣሪያዎችን በማግኘት ላይ"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Cast አድርግ ወደ"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"የአልበም ስነ-ጥበብ"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"ማያ ገጽን በመውሰድ ላይ"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"ዝጋ"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"ሰብስብ"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"ግንኙነት አቋርጥ"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"አስፋ"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"ምንም መረጃ አይገኝም"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"ምንም ማህደረመረጃ አልተመረጠም"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"ለአፍታ አቁም"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"አጫውት"</string>
+    <string msgid="735874641921425123" name="mr_controller_stop">"አቁም"</string>
+    <string msgid="8857886794086583226" name="mr_controller_stop_casting">"Cast ማድረግ አቁም"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"ተንሸራታች የድምፅ መቆጣጠሪያ"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"ስርዓት"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"መሣሪያዎች"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"እርምጃ ይፈልጉ"</string>
     <string msgid="146198913615257606" name="search_menu_title">"ፈልግ"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

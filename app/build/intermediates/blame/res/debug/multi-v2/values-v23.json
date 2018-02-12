@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\MusicEmLogin\\app\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6cfd580bc8a70e179f7e446acca20539\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.1.aar\\8834a31af9f8e888886ed6e863a73e54\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.2.aar\\189cbad09de59b7afa21976585973a7a\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -36,10 +36,10 @@
             ]
         },
         {
-            "outputFile": "D:\\MusicEmLogin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\6cfd580bc8a70e179f7e446acca20539\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -50,7 +50,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.1.aar\\8834a31af9f8e888886ed6e863a73e54\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.0.2.aar\\189cbad09de59b7afa21976585973a7a\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

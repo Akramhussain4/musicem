@@ -1,19 +1,23 @@
 #Internal package file, do not edit.
-#Wed Jan 24 17:32:26 IST 2018
-1.base=D\:\\MusicEmLogin\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-2.path=armeabi-v7a_ffmpeg
-0.baseType=DIRECTORY
-3.baseType=DIRECTORY
-2.base=D\:\\MusicEmLogin\\app\\build\\intermediates\\assets\\debug
-3.set=ASSET
-2.set=ASSET
-1.baseType=DIRECTORY
-3.path=x86_ffmpeg
-count=4
-1.set=DEX
-0.path=armeabi-v7a-neon_ffmpeg
-3.base=D\:\\MusicEmLogin\\app\\build\\intermediates\\assets\\debug
-0.set=ASSET
-0.base=D\:\\MusicEmLogin\\app\\build\\intermediates\\assets\\debug
+#Mon Feb 12 16:01:37 IST 2018
+2.base=C\:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\assets\\debug
+0.path=x86_ffmpeg
 2.baseType=DIRECTORY
+3.base=C\:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
 1.path=classes.dex
+4.base=C\:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+count=5
+2.path=armeabi-v7a_ffmpeg
+4.set=DEX
+3.path=armeabi-v7a-neon_ffmpeg
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+4.baseType=DIRECTORY
+0.set=ASSET

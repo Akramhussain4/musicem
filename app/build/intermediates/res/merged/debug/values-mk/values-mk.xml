@@ -17,6 +17,44 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Сподели со"</string>
     <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Сподели со <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Собери"</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Реклама"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Се емитува на %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Затворени титлови"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Не се достапни затворени титлови"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"Се поврзува на <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Исклучи"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Сликата е прикажана додека приемникот за емитување прикажува реклама"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Реклама во тек…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Корица на албум"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Пренос во живо"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Се вчитува..."</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Прескокни"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Премотај нанапред"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Премотај нанапред десет секунди"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Премотај нанапред триесет секунди"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Исклучи звук"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Поврзан на <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Се поврзува на <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Исклучи"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Пауза"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Пушти"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Премотај наназад"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Премотај наназад десет секунди"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Премотај наназад триесет секунди"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Репродукцијата бара контрола"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Скокни на следната ставка"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Скокни на претходната ставка"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Сопри"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Сопри го преносот во живо"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Аудио"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Откажи"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Затворени титлови"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Песна <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Ништо"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"ВО РЕД"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Титлови"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Вклучи звук"</string>
     <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Овозможи"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нема да се извршува ако не овозможите услуги на Google Play."</string>
     <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Овозможи ги услугите на Google Play"</string>
@@ -34,6 +72,68 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Отвори на телефонот"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Најави се"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Најави се со Google"</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"."</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"Продолжи"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"Заврши"</string>
+    <string msgid="3650250994187305396" name="lb_media_player_error">"Код за грешка на MediaPlayer %1$d дополнително %2$d"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"Мени за навигација"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"Следно"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"ЗАПОЧНИ"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"Оневозможи затворено објаснување"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"Овозможи затворено објаснување"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"Брзо премотај напред"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"Премотај напред %1$dX"</string>
+    <string msgid="8940984081242033574" name="lb_playback_controls_hidden">"Контролите за аудио-визуелните медиуми се скриени, притиснете на подлогата за насока за да ги прикажете"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"Оневозможи висок квалитет"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"Овозможи висок квалитет"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"Повеќе дејства"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"Пауза"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"Влези во режимот „Слика во слика“"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"Пушти"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"Повтори ги сите"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"Не повторувај ниту една"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"Повтори една"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"Премотај назад"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"Премотај назад %1$dX"</string>
+    <string msgid="6382160135512023238" name="lb_playback_controls_shown">"Контролите за аудио-визуелните контроли се прикажуваат"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"Оневозможи мешање"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"Овозможи мешање"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"Прескокни на следна"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"Прескокни на претходна"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"Откажи палец надолу"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"Избери палец надолу"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"Откажи палец нагоре"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"Избери палец нагоре"</string>
+    <string msgid="3208380806582304911" name="lb_playback_time_separator">"/"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"Пребарување"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"Зборувајте за да пребарувате"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"Пребарувај <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"Кажете за да се пребарува <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Копчето за Cast"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Копче за Cast. Поврзано"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Копче за Cast. Се поврзува"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Копче за Cast. Исклучено"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Се бараат уреди"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Емитувај на"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Корица на албум"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Екранот се емитува"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Затвори"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Собери"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Исклучи"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Прошири"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Нема достапни информации"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Не се избрани медиуми"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Паузирај"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Репродуцирај"</string>
+    <string msgid="735874641921425123" name="mr_controller_stop">"Сопри"</string>
+    <string msgid="8857886794086583226" name="mr_controller_stop_casting">"Сопри го емитувањето"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Лизгач за јачина на звук"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Систем"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Уреди"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"Акција на пребарување"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Пребарај"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

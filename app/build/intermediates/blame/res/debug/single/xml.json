@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\automotive_app_desc.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\xml\\automotive_app_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\xml\\allowed_media_browser_callers.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\xml\\allowed_media_browser_callers.xml"
+    }
+]

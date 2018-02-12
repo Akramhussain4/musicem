@@ -1,74 +1,90 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
-MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:16:1-26:12
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\6fd98fcd8c034edba5f59b4013eee268\AndroidManifest.xml:2:1-6:12
-MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\f86d65c607dd16e64b4ae78528822e86\AndroidManifest.xml:21:1-31:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:17:1-31:12
 MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\123485e6c7b30a35a6d995ca372a592c\AndroidManifest.xml:2:1-17:12
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1fdbe9a794dc3efe01993ef5766718cf\AndroidManifest.xml:2:1-17:12
-MERGED from [com.facebook.android:facebook-login:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\76513b40ffad73c61d75c59aa46a206e\AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:21:1-36:12
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\6cfd580bc8a70e179f7e446acca20539\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:21:1-36:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.6.2.aar\71f90912bdbfd62a82843a6c00d0cf4e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\054490d056d1d9b176e412225ee3c887\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\115d0ff468fbdfef40b732f2b2ee5957\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e930c896cc8a6252279eff4373b43b5\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.crosswall:Android-Coverflow:release-v1.0.4] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\Android-Coverflow-release-v1.0.4.aar\8559c17cd30bddc7356c8da3a0a70eef\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:16:1-26:12
 MERGED from [com.microsoft.projectoxford:emotion:1.0.355] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\emotion-1.0.355.aar\79ee4b5ed7dcffa2e77484472b78ec3d\AndroidManifest.xml:2:1-11:12
-MERGED from [com.microsoft.projectoxford:face:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\face-1.0.0.aar\0e9055c850e5e95b25195acd22814d39\AndroidManifest.xml:2:1-13:12
+MERGED from [com.microsoft.projectoxford:face:1.3.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\face-1.3.0.aar\7e70d278bb2951c93c1a765a9a2e028f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.support:wearable:1.3.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\wearable-1.3.0.aar\dfc8c9784b41065f141eb1aff7d5207f\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\189cbad09de59b7afa21976585973a7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:leanback-v17:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\leanback-v17-26.1.0.aar\d21d7571dd2e5d797b3716dec7468850\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.exoplayer:exoplayer:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.5.0.aar\28ce6bc2a2d1bfd70ead6e2d464beddd\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:16:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\84222070904bebc4780833f18c0b8d8e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.5.0.aar\e5bdcb948ab1d3757592756bb19c0502\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-r2.5.0.aar\65f21d26e9e1f9ebff7d436470d96ca5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-r2.5.0.aar\cae9b5d40ab869cb915db3e6eb534469\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.5.0.aar\83f97b287afa9a0a2bf6056b35d5402d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.5.0.aar\e86fd6e32ea78274b16e18e8b15f4a19\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\3e9786b2acc8ec5da3bd8e3c288bd531\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\82d76af86721f52d8f1e488fbc5aadb2\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.6.2.aar\65bd26273a21868431622251aa2677ba\AndroidManifest.xml:2:1-4:12
 MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.6.2.aar\2a75d5eb11fb141f53cc4ec23671fbd5\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:16:1-35:12
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:16:1-29:12
 MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:16:1-47:12
 MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\962f3574fa2469d7db46f6510864fd9c\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\c25a4f9262c24564ef46847bc772ea32\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a04df01503a71af2fee3dfe833d7fe71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4dd34c5ba6e90f96a84b9d77de7c28f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\d92842045a679e117ab1d03af54c19ff\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\5a813e0d9cecd58c2b09805bb83d94fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5226c41af90d805f2215ca85b8492d7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\353a0e58452e306da445216a0526d216\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\99904e3f43a776cc2a8a0c5db189662f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d5aa7450590c9850940c3dbc03b85e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f9d90a9d211be38afd21716a326e00fd\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.2.aar\1a9b5e18333ec0ee2ee5e21486321169\AndroidManifest.xml:2:1-6:12
-MERGED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:21:1-45:12
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\732f89702de0bc26e8e1f82122ba4127\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\91cbd6c31e991c254a368fcbaf7f4cae\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\7a6ebb945cfe9431b52ad4fda66749db\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\6a406f631224639a055b7b5efc586145\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\5230f70d7cf732751c009d6f84a449e6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.1.aar\8834a31af9f8e888886ed6e863a73e54\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customtabs:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.1.aar\bd715b230362414fe5f3559930949c81\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\ad01ab3fc28706a77d2d26789bc026ab\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\d471737410ef124e14bb10111b8e5df0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\2bafca77d56fefec891e3c541a781db6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\ce8f22f37afd6dd665fdaccae6852ad6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\7d985f9931f03334633c6af188db8154\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.6.2.aar\69f1c1e67eaac557e6b91d2b351399ec\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\b786fa1382b01d8a33c815d667fcfba1\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\0bf06e1322f93539777759e2bba46f68\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.2.aar\ce862762e764d9ea949a6037cbf94fdf\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\8dc4adfd7399428684a53826b42efb04\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.6.2.aar\26480f0c89d533b35b0add971e75198a\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.2.aar\0123f1ee087c0486fa222eba25b0a96b\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.6.2.aar\c8208593f90673c9f129b3a3bd41b16c\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cb58ae2c85c3603fd27f254b8a5f4709\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\6fe11c98521ad19430bcd7049f5377a1\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\44fdde70fb875e7dbf966f04ed0f9d02\AndroidManifest.xml:2:1-6:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45e5b1a898db4639ca396cdb863c2e7c\AndroidManifest.xml:17:1-30:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
 	package
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:1-63:12
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:6:5-67
 MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:20:5-66
@@ -76,9 +92,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussai
 MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:7:5-79
 MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:21:5-78
@@ -86,41 +102,83 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussai
 MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:19:5-78
 MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:8:22-77
 uses-permission#android.permission.CAMERA
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:8:5-65
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:11:22-73
+uses-feature#android.software.leanback
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:13:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:16:9-52
 application
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:10:5-61:19
-MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:19:5-25:19
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:19:5-143:19
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\6fd98fcd8c034edba5f59b4013eee268\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\6fd98fcd8c034edba5f59b4013eee268\AndroidManifest.xml:5:5-20
-MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\f86d65c607dd16e64b4ae78528822e86\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\f86d65c607dd16e64b4ae78528822e86\AndroidManifest.xml:28:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:25:5-29:19
 MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\123485e6c7b30a35a6d995ca372a592c\AndroidManifest.xml:11:5-15:19
 MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\123485e6c7b30a35a6d995ca372a592c\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1fdbe9a794dc3efe01993ef5766718cf\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1fdbe9a794dc3efe01993ef5766718cf\AndroidManifest.xml:11:5-15:19
-MERGED from [com.facebook.android:facebook-login:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\76513b40ffad73c61d75c59aa46a206e\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\76513b40ffad73c61d75c59aa46a206e\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:28:5-34:19
-MERGED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.6.2.aar\71f90912bdbfd62a82843a6c00d0cf4e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.6.2.aar\71f90912bdbfd62a82843a6c00d0cf4e\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\054490d056d1d9b176e412225ee3c887\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\054490d056d1d9b176e412225ee3c887\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e930c896cc8a6252279eff4373b43b5\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e930c896cc8a6252279eff4373b43b5\AndroidManifest.xml:9:5-20
 MERGED from [com.github.crosswall:Android-Coverflow:release-v1.0.4] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\Android-Coverflow-release-v1.0.4.aar\8559c17cd30bddc7356c8da3a0a70eef\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.crosswall:Android-Coverflow:release-v1.0.4] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\Android-Coverflow-release-v1.0.4.aar\8559c17cd30bddc7356c8da3a0a70eef\AndroidManifest.xml:11:5-15:19
-MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.support:wearable:1.3.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\wearable-1.3.0.aar\dfc8c9784b41065f141eb1aff7d5207f\AndroidManifest.xml:8:5-20
+MERGED from [com.google.android.support:wearable:1.3.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\wearable-1.3.0.aar\dfc8c9784b41065f141eb1aff7d5207f\AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:leanback-v17:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\leanback-v17-26.1.0.aar\d21d7571dd2e5d797b3716dec7468850\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:leanback-v17:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\leanback-v17-26.1.0.aar\d21d7571dd2e5d797b3716dec7468850\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:24:5-34:19
 MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:24:5-34:19
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\84222070904bebc4780833f18c0b8d8e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\84222070904bebc4780833f18c0b8d8e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\82d76af86721f52d8f1e488fbc5aadb2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\82d76af86721f52d8f1e488fbc5aadb2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:29:5-46:19
@@ -131,14 +189,14 @@ MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Hussain
 MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\c25a4f9262c24564ef46847bc772ea32\AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:19:5-21:19
 MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\d92842045a679e117ab1d03af54c19ff\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\d92842045a679e117ab1d03af54c19ff\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.2.aar\1a9b5e18333ec0ee2ee5e21486321169\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.2.aar\1a9b5e18333ec0ee2ee5e21486321169\AndroidManifest.xml:5:5-20
-MERGED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:28:5-43:19
-MERGED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:28:5-43:19
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\732f89702de0bc26e8e1f82122ba4127\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\732f89702de0bc26e8e1f82122ba4127\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\91cbd6c31e991c254a368fcbaf7f4cae\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\91cbd6c31e991c254a368fcbaf7f4cae\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.6.2.aar\69f1c1e67eaac557e6b91d2b351399ec\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.6.2.aar\69f1c1e67eaac557e6b91d2b351399ec\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\b786fa1382b01d8a33c815d667fcfba1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\b786fa1382b01d8a33c815d667fcfba1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\0bf06e1322f93539777759e2bba46f68\AndroidManifest.xml:5:5-20
@@ -151,160 +209,308 @@ MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2]
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.6.2.aar\26480f0c89d533b35b0add971e75198a\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.2.aar\0123f1ee087c0486fa222eba25b0a96b\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.2.aar\0123f1ee087c0486fa222eba25b0a96b\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.6.2.aar\c8208593f90673c9f129b3a3bd41b16c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.6.2.aar\c8208593f90673c9f129b3a3bd41b16c\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\6fe11c98521ad19430bcd7049f5377a1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\6fe11c98521ad19430bcd7049f5377a1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\44fdde70fb875e7dbf966f04ed0f9d02\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\44fdde70fb875e7dbf966f04ed0f9d02\AndroidManifest.xml:5:5-20
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45e5b1a898db4639ca396cdb863c2e7c\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45e5b1a898db4639ca396cdb863c2e7c\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:22:9-41
+	tools:ignore
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:26:9-39
 	android:roundIcon
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:23:9-54
 	android:icon
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:16:9-40
-activity#com.example.hampi.musicemlogin.LoginActivity
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:17:9-23:20
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:25:9-40
+meta-data#com.google.android.gms.car.application
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:28:9-30:59
+	android:resource
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:17:19-48
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:18:13-22:29
-action#android.intent.action.MAIN
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:19:17-69
-	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:19:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:21:17-77
-	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:21:27-74
-activity#com.example.hampi.musicemlogin.MainActivity
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:24:9-27:59
-	android:screenOrientation
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:26:13-49
-	android:theme
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:27:13-56
-	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:25:13-41
-activity#com.example.hampi.musicemlogin.SignupActivity
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:28:9-31:59
-	android:screenOrientation
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:30:13-49
-	android:theme
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:31:13-56
-	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:29:13-43
-activity#com.example.hampi.musicemlogin.ResetPasswordActivity
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:32:9-35:59
-	android:screenOrientation
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:34:13-49
-	android:theme
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:35:13-56
-	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:33:13-50
-meta-data#com.facebook.sdk.ApplicationId
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:37:9-39:55
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:29:13-66
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:31:9-33:69
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:39:13-52
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:33:13-66
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:38:13-58
-activity#com.facebook.FacebookActivity
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:41:9-44:48
-MERGED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:29:9-32:66
-MERGED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:29:9-32:66
-	android:label
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:44:13-45
-	android:configChanges
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:43:13-96
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.example.hampi.musicemlogin.LoginActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:34:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.example.hampi.musicemlogin.MainActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:41:9-44:59
+	android:screenOrientation
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:43:13-49
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:32:13-63
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:44:13-56
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:42:13-57
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:42:13-41
+activity#com.example.hampi.musicemlogin.SignupActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:45:9-48:59
+	android:screenOrientation
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:46:13-43
+activity#com.example.hampi.musicemlogin.ResetPasswordActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:49:9-52:59
+	android:screenOrientation
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:51:13-49
+	android:theme
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:50:13-50
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:54:9-56:55
+	android:value
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:56:13-52
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:55:13-58
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:58:9-61:48
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:61:13-45
+	android:configChanges
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:60:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:59:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:45:9-56:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:62:9-73:20
 	android:exported
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:47:13-36
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:64:13-36
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:46:13-58
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:63:13-58
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:48:13-55:29
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:65:13-72:29
 action#android.intent.action.VIEW
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:49:17-69
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:66:17-69
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:49:25-66
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:66:25-66
 category#android.intent.category.DEFAULT
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:51:17-76
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:68:17-76
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:51:27-73
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:68:27-73
 category#android.intent.category.BROWSABLE
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:52:17-78
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:69:17-78
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:52:27-75
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:69:27-75
 data
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:54:17-75
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:71:17-75
 	android:scheme
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:54:23-72
-activity#com.example.hampi.musicemlogin.DisplayMusic
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:57:9-50
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:71:23-72
+activity#com.example.hampi.musicemlogin.ui.MusicPlayerActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:75:9-83:20
+	android:label
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:77:13-45
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:57:19-47
-activity#com.example.hampi.musicemlogin.MusicTag
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:58:9-46
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:76:13-51
+intent-filter#android.intent.category.DEFAULT+android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:79:13-82:29
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:80:17-86
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:58:19-43
-activity#com.example.hampi.musicemlogin.MusicPlayer
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:59:9-49
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:80:25-83
+activity#com.example.hampi.musicemlogin.ui.PlaceholderActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:86:13-45
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:59:19-46
-activity#com.example.hampi.musicemlogin.MusicList
-ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:60:9-56
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:85:13-51
+activity#com.example.hampi.musicemlogin.ui.NowPlayingActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:88:9-91:20
+	android:icon
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:90:13-49
 	android:name
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml:60:19-44
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:89:13-50
+activity#com.example.hampi.musicemlogin.ui.tv.TvBrowseActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:92:9-100:20
+	android:label
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:94:13-45
+	android:theme
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:95:13-57
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:93:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:96:13-99:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:98:17-86
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:98:27-83
+activity#com.example.hampi.musicemlogin.ui.tv.TvVerticalGridActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:101:9-104:68
+	android:parentActivityName
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:104:13-65
+	android:theme
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:103:13-57
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:102:13-57
+activity#com.example.hampi.musicemlogin.ui.tv.TvPlaybackActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:105:9-108:68
+	android:parentActivityName
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:108:13-65
+	android:theme
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:107:13-57
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:106:13-53
+meta-data#com.google.android.gms.car.notification.SmallIcon
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:109:9-111:60
+	android:resource
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:111:13-57
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:110:13-77
+meta-data#com.google.android.gms.car.application.theme
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:112:9-114:50
+	android:resource
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:114:13-47
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:113:13-72
+meta-data#com.google.android.wearable.media.theme
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:115:9-117:51
+	android:resource
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:117:13-48
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:116:13-67
+service#com.example.hampi.musicemlogin.MusicService
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:118:9-125:19
+	android:exported
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:120:13-36
+	tools:ignore
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:121:13-43
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:119:13-41
+intent-filter#android.media.browse.MediaBrowserService
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:122:13-124:29
+action#android.media.browse.MediaBrowserService
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:123:17-83
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:123:25-80
+meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:126:9-128:82
+	android:value
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:128:13-79
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:127:13-93
+activity#com.example.hampi.musicemlogin.ui.FullScreenPlayerActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:129:9-137:20
+	android:parentActivityName
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:133:13-65
+	android:label
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:131:13-45
+	android:launchMode
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:132:13-43
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:130:13-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:134:13-136:58
+	android:value
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:136:17-56
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:135:17-63
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:138:9-142:20
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:138:19-86
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:139:13-141:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:140:17-77
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:140:25-74
 uses-sdk
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:17:5-43
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\6fd98fcd8c034edba5f59b4013eee268\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\6fd98fcd8c034edba5f59b4013eee268\AndroidManifest.xml:4:5-43
-MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\f86d65c607dd16e64b4ae78528822e86\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\f86d65c607dd16e64b4ae78528822e86\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:21:5-23:62
 MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\123485e6c7b30a35a6d995ca372a592c\AndroidManifest.xml:7:5-9:41
 MERGED from [com.rapidapi:rapidconnect-android:0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\rapidconnect-android-0.1.aar\123485e6c7b30a35a6d995ca372a592c\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1fdbe9a794dc3efe01993ef5766718cf\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.karanchuri:PermissionManager:0.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\PermissionManager-0.1.0.aar\1fdbe9a794dc3efe01993ef5766718cf\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:facebook-login:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\76513b40ffad73c61d75c59aa46a206e\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\76513b40ffad73c61d75c59aa46a206e\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\6cfd580bc8a70e179f7e446acca20539\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\6cfd580bc8a70e179f7e446acca20539\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.6.2.aar\71f90912bdbfd62a82843a6c00d0cf4e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.6.2.aar\71f90912bdbfd62a82843a6c00d0cf4e\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\054490d056d1d9b176e412225ee3c887\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\054490d056d1d9b176e412225ee3c887\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\115d0ff468fbdfef40b732f2b2ee5957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\115d0ff468fbdfef40b732f2b2ee5957\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e930c896cc8a6252279eff4373b43b5\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e930c896cc8a6252279eff4373b43b5\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.crosswall:Android-Coverflow:release-v1.0.4] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\Android-Coverflow-release-v1.0.4.aar\8559c17cd30bddc7356c8da3a0a70eef\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.crosswall:Android-Coverflow:release-v1.0.4] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\Android-Coverflow-release-v1.0.4.aar\8559c17cd30bddc7356c8da3a0a70eef\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.2.aar\f733dce96ae70cf82f4598bda486be2e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:17:5-43
 MERGED from [com.microsoft.projectoxford:emotion:1.0.355] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\emotion-1.0.355.aar\79ee4b5ed7dcffa2e77484472b78ec3d\AndroidManifest.xml:5:5-7:41
 MERGED from [com.microsoft.projectoxford:emotion:1.0.355] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\emotion-1.0.355.aar\79ee4b5ed7dcffa2e77484472b78ec3d\AndroidManifest.xml:5:5-7:41
-MERGED from [com.microsoft.projectoxford:face:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\face-1.0.0.aar\0e9055c850e5e95b25195acd22814d39\AndroidManifest.xml:6:5-8:41
-MERGED from [com.microsoft.projectoxford:face:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\face-1.0.0.aar\0e9055c850e5e95b25195acd22814d39\AndroidManifest.xml:6:5-8:41
+MERGED from [com.microsoft.projectoxford:face:1.3.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\face-1.3.0.aar\7e70d278bb2951c93c1a765a9a2e028f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.microsoft.projectoxford:face:1.3.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\face-1.3.0.aar\7e70d278bb2951c93c1a765a9a2e028f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.support:wearable:1.3.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\wearable-1.3.0.aar\dfc8c9784b41065f141eb1aff7d5207f\AndroidManifest.xml:4:5-6:41
+MERGED from [com.google.android.support:wearable:1.3.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\wearable-1.3.0.aar\dfc8c9784b41065f141eb1aff7d5207f\AndroidManifest.xml:4:5-6:41
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\189cbad09de59b7afa21976585973a7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\189cbad09de59b7afa21976585973a7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:leanback-v17:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\leanback-v17-26.1.0.aar\d21d7571dd2e5d797b3716dec7468850\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:leanback-v17:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\leanback-v17-26.1.0.aar\d21d7571dd2e5d797b3716dec7468850\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.5.0.aar\28ce6bc2a2d1bfd70ead6e2d464beddd\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.5.0.aar\28ce6bc2a2d1bfd70ead6e2d464beddd\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\84222070904bebc4780833f18c0b8d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\84222070904bebc4780833f18c0b8d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.5.0.aar\e5bdcb948ab1d3757592756bb19c0502\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-r2.5.0.aar\e5bdcb948ab1d3757592756bb19c0502\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-r2.5.0.aar\65f21d26e9e1f9ebff7d436470d96ca5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-r2.5.0.aar\65f21d26e9e1f9ebff7d436470d96ca5\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-r2.5.0.aar\cae9b5d40ab869cb915db3e6eb534469\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-r2.5.0.aar\cae9b5d40ab869cb915db3e6eb534469\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.5.0.aar\83f97b287afa9a0a2bf6056b35d5402d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-r2.5.0.aar\83f97b287afa9a0a2bf6056b35d5402d\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.5.0.aar\e86fd6e32ea78274b16e18e8b15f4a19\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.5.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\exoplayer-core-r2.5.0.aar\e86fd6e32ea78274b16e18e8b15f4a19\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\3e9786b2acc8ec5da3bd8e3c288bd531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\3e9786b2acc8ec5da3bd8e3c288bd531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\82d76af86721f52d8f1e488fbc5aadb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\82d76af86721f52d8f1e488fbc5aadb2\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.6.2.aar\65bd26273a21868431622251aa2677ba\AndroidManifest.xml:3:3-41
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.6.2.aar\65bd26273a21868431622251aa2677ba\AndroidManifest.xml:3:3-41
 MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.6.2.aar\2a75d5eb11fb141f53cc4ec23671fbd5\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.6.2.aar\2a75d5eb11fb141f53cc4ec23671fbd5\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:17:5-43
@@ -315,34 +521,30 @@ MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Hussain
 MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\c25a4f9262c24564ef46847bc772ea32\AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a04df01503a71af2fee3dfe833d7fe71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a04df01503a71af2fee3dfe833d7fe71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4dd34c5ba6e90f96a84b9d77de7c28f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4dd34c5ba6e90f96a84b9d77de7c28f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\d92842045a679e117ab1d03af54c19ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\d92842045a679e117ab1d03af54c19ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\5a813e0d9cecd58c2b09805bb83d94fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\5a813e0d9cecd58c2b09805bb83d94fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5226c41af90d805f2215ca85b8492d7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\5226c41af90d805f2215ca85b8492d7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\353a0e58452e306da445216a0526d216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\353a0e58452e306da445216a0526d216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\99904e3f43a776cc2a8a0c5db189662f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\99904e3f43a776cc2a8a0c5db189662f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d5aa7450590c9850940c3dbc03b85e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d5aa7450590c9850940c3dbc03b85e6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f9d90a9d211be38afd21716a326e00fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\f9d90a9d211be38afd21716a326e00fd\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.2.aar\1a9b5e18333ec0ee2ee5e21486321169\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.6.2.aar\1a9b5e18333ec0ee2ee5e21486321169\AndroidManifest.xml:4:5-43
-MERGED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\732f89702de0bc26e8e1f82122ba4127\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\732f89702de0bc26e8e1f82122ba4127\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\91cbd6c31e991c254a368fcbaf7f4cae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\91cbd6c31e991c254a368fcbaf7f4cae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\7a6ebb945cfe9431b52ad4fda66749db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\7a6ebb945cfe9431b52ad4fda66749db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\6a406f631224639a055b7b5efc586145\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\6a406f631224639a055b7b5efc586145\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\5230f70d7cf732751c009d6f84a449e6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\5230f70d7cf732751c009d6f84a449e6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.1.aar\8834a31af9f8e888886ed6e863a73e54\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.1.aar\8834a31af9f8e888886ed6e863a73e54\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.1.aar\bd715b230362414fe5f3559930949c81\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.1.aar\bd715b230362414fe5f3559930949c81\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\ad01ab3fc28706a77d2d26789bc026ab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\ad01ab3fc28706a77d2d26789bc026ab\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\d471737410ef124e14bb10111b8e5df0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\d471737410ef124e14bb10111b8e5df0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\2bafca77d56fefec891e3c541a781db6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\2bafca77d56fefec891e3c541a781db6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\ce8f22f37afd6dd665fdaccae6852ad6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\ce8f22f37afd6dd665fdaccae6852ad6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\7d985f9931f03334633c6af188db8154\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\7d985f9931f03334633c6af188db8154\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.6.2.aar\69f1c1e67eaac557e6b91d2b351399ec\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-11.6.2.aar\69f1c1e67eaac557e6b91d2b351399ec\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\b786fa1382b01d8a33c815d667fcfba1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\b786fa1382b01d8a33c815d667fcfba1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\0bf06e1322f93539777759e2bba46f68\AndroidManifest.xml:4:5-43
@@ -355,26 +557,58 @@ MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2]
 MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.6.2.aar\26480f0c89d533b35b0add971e75198a\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.2.aar\0123f1ee087c0486fa222eba25b0a96b\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.6.2.aar\0123f1ee087c0486fa222eba25b0a96b\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\9b91ee488c0724ad3c67a0f48909eea8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.6.2.aar\c8208593f90673c9f129b3a3bd41b16c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-11.6.2.aar\c8208593f90673c9f129b3a3bd41b16c\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cb58ae2c85c3603fd27f254b8a5f4709\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cb58ae2c85c3603fd27f254b8a5f4709\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\6fe11c98521ad19430bcd7049f5377a1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\6fe11c98521ad19430bcd7049f5377a1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\44fdde70fb875e7dbf966f04ed0f9d02\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\44fdde70fb875e7dbf966f04ed0f9d02\AndroidManifest.xml:4:5-43
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45e5b1a898db4639ca396cdb863c2e7c\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45e5b1a898db4639ca396cdb863c2e7c\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		ADDED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
-		INJECTED from D:\MusicEmLogin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\054490d056d1d9b176e412225ee3c887\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\054490d056d1d9b176e412225ee3c887\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:leanback-v17:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\leanback-v17-26.1.0.aar\d21d7571dd2e5d797b3716dec7468850\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:leanback-v17:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\leanback-v17-26.1.0.aar\d21d7571dd2e5d797b3716dec7468850\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\84222070904bebc4780833f18c0b8d8e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\84222070904bebc4780833f18c0b8d8e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\82d76af86721f52d8f1e488fbc5aadb2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\82d76af86721f52d8f1e488fbc5aadb2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\d92842045a679e117ab1d03af54c19ff\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\d92842045a679e117ab1d03af54c19ff\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:27:13-51
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:33:19-68
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.2.aar\c11a3f7c456efaf3a8779633cde16710\AndroidManifest.xml:7:18-90
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
@@ -393,38 +627,8 @@ ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.
 		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:24:88-182
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.2.aar\16e4f5b6892dae06776ed89a4ebb9c14\AndroidManifest.xml:24:18-63
-meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\732f89702de0bc26e8e1f82122ba4127\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\732f89702de0bc26e8e1f82122ba4127\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\91cbd6c31e991c254a368fcbaf7f4cae\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:transition:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\91cbd6c31e991c254a368fcbaf7f4cae\AndroidManifest.xml:23:9-25:38
-	android:value
-		ADDED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:design:26.0.1] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\3f2821cb51ea6e38b3d56099e29bf70e\AndroidManifest.xml:27:13-51
-activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:33:9-71
-	android:name
-		ADDED from [com.facebook.android:facebook-common:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\71490852ae21473980e2b5f8ff6f7b1c\AndroidManifest.xml:33:19-68
 library
 ADDED from [com.microsoft.projectoxford:emotion:1.0.355] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\emotion-1.0.355.aar\79ee4b5ed7dcffa2e77484472b78ec3d\AndroidManifest.xml:9:5-16
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:19:19-85
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:22:22-65
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
 ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:25:7-26:18
 MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\888e77a0ece79efceead4b20c5f5435a\AndroidManifest.xml:25:7-26:18
@@ -471,6 +675,22 @@ ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gra
 		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:33:91-147
 	android:name
 		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\8d27865c73e64d05860152975a4656ce\AndroidManifest.xml:33:16-90
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\2b44e7281af1f724881e28252a96b3bc\AndroidManifest.xml:40:13-70
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\8d631b3fe632266171d9eeb3135c9cd7\AndroidManifest.xml:19:19-85
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:23:5-81
 	android:name
@@ -543,23 +763,3 @@ ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Hussain\.gradle
 		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\962f3574fa2469d7db46f6510864fd9c\AndroidManifest.xml:6:169-192
 	android:name
 		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\962f3574fa2469d7db46f6510864fd9c\AndroidManifest.xml:6:79-143
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:20:9-121
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:20:66-119
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\0a31f51d790dce586fe27714cd78671e\AndroidManifest.xml:20:20-65
-provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:39:9-42:40
-	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:41:13-72
-	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:42:13-37
-	android:name
-		ADDED from [com.facebook.android:facebook-core:4.29.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\58d8483f14857145504ece778af025f3\AndroidManifest.xml:40:13-70
-meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45e5b1a898db4639ca396cdb863c2e7c\AndroidManifest.xml:25:9-27:47
-	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45e5b1a898db4639ca396cdb863c2e7c\AndroidManifest.xml:27:13-44
-	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\45e5b1a898db4639ca396cdb863c2e7c\AndroidManifest.xml:26:13-58

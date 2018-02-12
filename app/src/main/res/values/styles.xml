@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -16,5 +16,32 @@
     <style name="EditTextHintStyle" parent="@android:style/TextAppearance">
         <item name="android:textColor" >#ffffff</item>
     </style>
+    <style name="CarTheme" parent="UAmpAppTheme">
+        <!-- colorPrimaryDark is currently used in Android Auto for:
+             - App background
+             - Drawer right side ("more" custom actions) background
+             - Notification icon badge tinting
+             - Overview “now playing” icon tinting
+         -->
+        <item name="colorPrimaryDark">#ffbf360c</item>
 
+        <!-- colorAccent is used in Android Auto for:
+             - Spinner
+             - progress bar
+             - floating action button background (Play/Pause in media apps)
+         -->
+        <item name="colorAccent">@color/bt_accent</item>
+    </style>
+
+    <style name="WearTheme" parent="UAmpAppTheme">
+        <!-- colorPrimaryDark is currently used on Android Wear for:
+             - Card background on media browse
+             - Card background on 4-way media controls
+         -->
+        <item name="colorPrimaryDark">#ffbf360c</item>
+    </style>
+
+
+    <style name="Theme.UAmp.TVLeanback" parent="Theme.Leanback">
+    </style>
 </resources>

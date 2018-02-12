@@ -18,6 +18,7 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.hampi.musicemlogin.ui.PlaceholderActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.gson.Gson;
@@ -53,7 +54,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        textView = (TextView) findViewById(R.id.editText);
+       // textView = (TextView) findViewById(R.id.editText);
         p = new ProgressDialog(this);
         p.setMessage("Analyzing Emotions!!");
         p.setIndeterminate(false);
@@ -325,9 +326,9 @@ public class MainActivity extends Activity {
                         String.format("\t surprise: %1$.5f\n", t.scores.surprise);
 
                     }
-                   /* Log.d("response", status);
-                    textView.setText(status);*/
-                    Intent intent = new Intent(getApplicationContext(),DisplayMusic.class);
+                   /* Log.d("response", status);*/
+                   // textView.setText(status);
+                    Intent intent = new Intent(getApplicationContext(),PlaceholderActivity.class);
                     intent.putExtra("emotion",status);
                     startActivity(intent);
                 }

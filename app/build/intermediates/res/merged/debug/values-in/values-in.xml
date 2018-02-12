@@ -17,6 +17,44 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
     <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Bagikan ke <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Iklan"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Mentransmisi ke %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Teks tertutup"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Teks tertutup tidak tersedia"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"Menghubungkan ke <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Putuskan sambungan"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Gambar ditampilkan saat penerima transmisi memutar iklan"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Iklan sedang berlangsung…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Sampul album"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Streaming Langsug"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Memuat..."</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"Lewati"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Maju"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Maju sepuluh detik"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Maju tiga puluh detik"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Bisukan"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Tersambung ke <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Menyambung ke <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Putuskan sambungan"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Jeda"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Putar"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Putar Mundur"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Putar mundur sepuluh detik"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Putar mundur tiga puluh detik"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Kontrol pencari pemutaran"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Lewati ke item berikutnya"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Lewati ke item sebelumnya"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Berhenti"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Berhenti streaming langsung"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Audio"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Batal"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Teks Tertutup"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Lacak <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Tidak ada"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Oke"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Subtitel"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Suarakan"</string>
     <string gender="unknown" name="com_facebook_device_auth_instructions">Kunjungi &lt;b>facebook.com/device&lt;/b> dan masukkan kode yang ditampilkan di bawah ini.</string>
     <string gender="unknown" name="com_facebook_image_download_unknown_error">Kesalahan tak terduga ketika mengunduh gambar.</string>
     <string gender="unknown" name="com_facebook_internet_permission_error_message">Masuk Tampilan Web memerlukan izin INTERNET</string>
@@ -57,6 +95,79 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Buka di ponsel"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Masuk"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Masuk dengan Google"</string>
+    <string msgid="8455537630633057684" name="dismiss_overlay_button_label">"Keluar"</string>
+    <string name="exo_controls_fastforward_description">"Maju cepat"</string>
+    <string name="exo_controls_next_description">"Lagu berikutnya"</string>
+    <string name="exo_controls_pause_description">"Jeda"</string>
+    <string name="exo_controls_play_description">"Putar"</string>
+    <string name="exo_controls_previous_description">"Lagu sebelumnya"</string>
+    <string name="exo_controls_repeat_all_description">"Ulangi Semua"</string>
+    <string name="exo_controls_repeat_off_description">"Jangan Ulangi"</string>
+    <string name="exo_controls_repeat_one_description">"Ulangi Satu"</string>
+    <string name="exo_controls_rewind_description">"Putar Ulang"</string>
+    <string name="exo_controls_stop_description">"Berhenti"</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"Lanjutkan"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"Selesai"</string>
+    <string msgid="3650250994187305396" name="lb_media_player_error">"Kode error MediaPlayer %1$d ekstra %2$d"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"Menu navigasi"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"Berikutnya"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"MULAI"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"Nonaktifkan Pembuatan Teks"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"Aktifkan Pembuatan Teks"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"Maju Cepat"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"Maju %1$dX"</string>
+    <string msgid="8940984081242033574" name="lb_playback_controls_hidden">"Kontrol media disembunyikan, tekan d-pad untuk menampilkannya"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"Nonaktifkan Kualitas Tinggi"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"Aktifkan Kualitas Tinggi"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"Tindakan Lainnya"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"Jeda"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"Masukkan Foto Dalam Mode Foto"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"Putar"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"Ulangi Semua"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"Jangan Ulangi"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"Ulangi Satu"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"Putar Ulang"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"Mundur %1$dX"</string>
+    <string msgid="6382160135512023238" name="lb_playback_controls_shown">"Kontrol media ditampilkan"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"Nonaktifkan Acak"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"Aktifkan Acak"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"Lewati ke Berikutnya"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"Lewati ke Sebelumnya"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"Batal Pilih Yang Tidak Disukai"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"Pilih Yang Tidak Disukai"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"Batal Pilih Yang Disukai"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"Pilih Yang Disukai"</string>
+    <string msgid="3208380806582304911" name="lb_playback_time_separator">"/"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"Telusuri"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"Ucapkan untuk menelusuri"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"Telusuri <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"Ucapkan untuk menelusuri <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">"."</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"Tombol transmisi"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"Tombol transmisi. Terhubung"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"Tombol transmisi. Menghubungkan"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"Tombol transmisi. Terputus"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"Mencari perangkat"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"Transmisikan ke"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"Sampul album"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"Transmisi layar"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"Tutup"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"Ciutkan"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"Putuskan sambungan"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"Luaskan"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"Tidak ada info yang tersedia"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"Tidak ada media yang dipilih"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"Jeda"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"Putar"</string>
+    <string msgid="735874641921425123" name="mr_controller_stop">"Berhenti"</string>
+    <string msgid="8857886794086583226" name="mr_controller_stop_casting">"Hentikan cast"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"Bilah geser volume"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"Sistem"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Perangkat"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"Tindakan Penelusuran"</string>
     <string msgid="146198913615257606" name="search_menu_title">"Telusuri"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

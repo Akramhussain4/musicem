@@ -8,13 +8,13 @@ package me.crosswall.lib.coverflow;
 
 public final class R {
     public static final class attr {
-        public static final int velocity = 0x7f010163;
+        public static final int velocity = 0x7f01024a;
     }
     public static final class string {
-        public static final int app_name = 0x7f070048;
+        public static final int app_name = 0x7f0b00b8;
     }
     public static final class styleable {
-        public static final int[] SyncViewPager = { 0x7f010163 };
+        public static final int[] SyncViewPager = { 0x7f01024a };
         public static final int SyncViewPager_velocity = 0;
     }
 }

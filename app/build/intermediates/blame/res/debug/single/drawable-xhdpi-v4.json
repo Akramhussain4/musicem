@@ -324,10 +324,6 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_dark.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_dark.png"
     },
@@ -496,10 +492,6 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_28_dark.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\banner_tv.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\drawable-xhdpi\\banner_tv.png"
-    },
-    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connected_26_light.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_26_light.png"
     },
@@ -510,6 +502,10 @@
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_25_dark.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_25_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.jpg",
+        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.jpg"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
@@ -1074,6 +1070,10 @@
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_light.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_04_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_insert_emoticon_black_24dp.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\drawable-xhdpi\\ic_insert_emoticon_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cast_ic_notification_1.png",

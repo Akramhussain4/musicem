@@ -15,8 +15,13 @@
  */
 package com.example.hampi.musicemlogin.ui;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.TextView;
+import android.widget.Toast;
 
+import com.example.hampi.musicemlogin.MainActivity;
 import com.example.hampi.musicemlogin.R;
 
 /**
@@ -25,11 +30,25 @@ import com.example.hampi.musicemlogin.R;
  */
 public class PlaceholderActivity extends BaseActivity {
 
+    private String emotion;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_placeholder);
+        TextView textView = findViewById(R.id.placeholder);
+        emotion = String.valueOf(getIntent().getExtras().get("emotion"));
+        textView.setText("You look " + emotion);
         initializeToolbar();
     }
 
+    public void analyzeEmotions(View view) {
+        Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+        startActivity(intent);
+    }
+
+    public void cool(View view) {
+        Toast.makeText(this,"Enojoy the Music!",Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(getApplicationContext(), MusicPlayerActivity.class);
+        startActivity(intent);
+    }
 }

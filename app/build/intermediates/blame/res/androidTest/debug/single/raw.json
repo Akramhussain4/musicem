@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\lb_voice_no_input.ogg",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\raw\\lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\lb_voice_open.ogg",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\raw\\lb_voice_open.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\lb_voice_success.ogg",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\raw\\lb_voice_success.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\lb_voice_failure.ogg",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\raw\\lb_voice_failure.ogg"
+    }
+]

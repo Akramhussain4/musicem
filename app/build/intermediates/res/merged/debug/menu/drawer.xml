@@ -23,7 +23,11 @@
             android:title="@string/drawer_allmusic_title"/>
         <item
             android:id="@+id/navigation_playlists"
-            android:icon="@drawable/ic_playlist_music_black_24dp"
-            android:title="@string/drawer_playlists_title"/>
+            android:icon="@drawable/ic_insert_emoticon_black_24dp"
+            android:title="@string/drawer_analyze_title" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_info_outline_grey600_48dp"
+            android:title="About" />
     </group>
 </menu>

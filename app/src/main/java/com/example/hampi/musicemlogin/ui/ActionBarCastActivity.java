@@ -33,6 +33,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.example.hampi.musicemlogin.AboutActivity;
 import com.example.hampi.musicemlogin.R;
 import com.example.hampi.musicemlogin.utils.LogHelper;
 import com.google.android.gms.cast.framework.CastButtonFactory;
@@ -42,6 +43,7 @@ import com.google.android.gms.cast.framework.CastStateListener;
 import com.google.android.gms.cast.framework.IntroductoryOverlay;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
+import com.google.firebase.auth.FirebaseAuth;
 
 /**
  * Abstract activity with toolbar, navigation drawer and cast support. Needs to be extended by
@@ -58,7 +60,7 @@ public abstract class ActionBarCastActivity extends AppCompatActivity {
     private static final String TAG = LogHelper.makeLogTag(ActionBarCastActivity.class);
 
     private static final int DELAY_MILLIS = 1000;
-
+    private FirebaseAuth auth;
     private CastContext mCastContext;
     private MenuItem mMediaRouteMenuItem;
     private Toolbar mToolbar;
@@ -101,6 +103,9 @@ public abstract class ActionBarCastActivity extends AppCompatActivity {
                         break;
                     case R.id.navigation_playlists:
                         activityClass = PlaceholderActivity.class;
+                        break;
+                    case R.id.about:
+                        activityClass = AboutActivity.class;
                         break;
                 }
                 if (activityClass != null) {
@@ -261,13 +266,14 @@ public abstract class ActionBarCastActivity extends AppCompatActivity {
         mToolbar.inflateMenu(R.menu.main);
 
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+
         if (mDrawerLayout != null) {
             NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
+
             if (navigationView == null) {
                 throw new IllegalStateException("Layout requires a NavigationView " +
                         "with id 'nav_view'");
             }
-
             // Create an ActionBarDrawerToggle that will handle opening/closing of the drawer:
             mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout,
                 mToolbar, R.string.open_content_drawer, R.string.close_content_drawer);
@@ -283,6 +289,7 @@ public abstract class ActionBarCastActivity extends AppCompatActivity {
     }
 
     private void populateDrawerItems(NavigationView navigationView) {
+
         navigationView.setNavigationItemSelectedListener(
                 new NavigationView.OnNavigationItemSelectedListener() {
                     @Override
@@ -297,6 +304,8 @@ public abstract class ActionBarCastActivity extends AppCompatActivity {
             navigationView.setCheckedItem(R.id.navigation_allmusic);
         } else if (PlaceholderActivity.class.isAssignableFrom(getClass())) {
             navigationView.setCheckedItem(R.id.navigation_playlists);
+        }else if (AboutActivity.class.isAssignableFrom(getClass())) {
+            navigationView.setCheckedItem(R.id.about);
         }
     }
 

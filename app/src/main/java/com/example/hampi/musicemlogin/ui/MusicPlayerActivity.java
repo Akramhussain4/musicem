@@ -184,4 +184,6 @@ public class MusicPlayerActivity extends BaseActivity
         }
         getBrowseFragment().onConnected();
     }
+
+
 }

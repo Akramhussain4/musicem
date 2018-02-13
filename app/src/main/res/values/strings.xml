@@ -38,13 +38,6 @@
     <string name="faceSubscription_key">21d07f86356948af81f65da3b0391b5d</string>
 
 
-
-
-
-
-
-
-
     <string name="favorite">Favorite</string>
     <string name="error_no_metadata">Unable to retrieve metadata.</string>
     <string name="browse_genres">Genres</string>
@@ -72,7 +65,7 @@
     <string name="close_content_drawer">Close the main menu</string>
     <string name="placeholder_message">This is a placeholder for your application code.</string>
     <string name="drawer_allmusic_title">All Music</string>
-    <string name="drawer_playlists_title">Playlists</string>
+    <string name="drawer_analyze_title">Analyze Emotions</string>
     <string name="now_playing">Now Playing</string>
     <string name="background_image_str">Background image for album art</string>
     <string name="search_queue_title">Search results</string>

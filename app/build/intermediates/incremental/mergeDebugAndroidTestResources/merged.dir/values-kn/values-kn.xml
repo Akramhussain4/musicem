@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ಮುಖಪುಟವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"ಮುಗಿದಿದೆ"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ಎಲ್ಲವನ್ನೂ ನೋಡಿ"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ಒಂದು ಅಪ್ಲಿಕೇಶನ್ ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ಆಫ್"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ಆನ್"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ಹುಡುಕಿ…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸು"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ಹುಡುಕಿ"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸು"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ಧ್ವನಿ ಹುಡುಕಾಟ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ಸಂಕುಚಿಸು"</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"ಜಾಹೀರಾತು"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"%1$s ಗೆ ಬಿತ್ತರಿಸಲಾಗುತ್ತಿದೆ"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"ಮುಚ್ಚಿದ ಶೀರ್ಷಿಕೆಗಳು"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"ಮುಚ್ಚಲಾಗಿರುವ ಶೀರ್ಷಿಕೆಗಳು ಲಭ್ಯವಿಲ್ಲ"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"<ns1:g id="NAME">%1$s</ns1:g> ಗೆ ಸಂಪರ್ಕಪಡಿಸಲಾಗುತ್ತಿದೆ"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"ಬಿತ್ತರಿಸುವಿಕೆ ಸ್ವೀಕರಿಸುವವರು ಜಾಹೀರಾತನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿರುವಾಗ ಚಿತ್ರವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"ಜಾಹೀರಾತು ಪ್ರಗತಿಯಲ್ಲಿದೆ..."</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"ಆಲ್ಬಮ್ ಕಲೆ"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"ಲೈವ್ ಸ್ಟ್ರೀಮ್"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."</string>
+    <string msgid="8399595886048969508" name="cast_expanded_controller_skip_ad_label">"ಸ್ಕಿಪ್‌"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"ಫಾರ್ವರ್ಡ್"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"ಹತ್ತು ಸೆಕೆಂಡುಗಳಷ್ಟು ಫಾರ್ವರ್ಡ್ ಮಾಡು"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"ಮೂವತ್ತು ಸೆಕೆಂಡುಗಳಷ್ಟು ಫಾರ್ವರ್ಡ್ ಮಾಡು"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"ಮ್ಯೂಟ್"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"<ns1:g id="NAME">%1$s</ns1:g> ಗೆ ಸಂಪರ್ಕಪಡಿಸಲಾಗಿದೆ"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"<ns1:g id="NAME">%1$s</ns1:g> ಗೆ ಸಂಪರ್ಕಪಡಿಸಲಾಗುತ್ತಿದೆ"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸು"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"ವಿರಾಮ"</string>
+    <string msgid="5906987965619702702" name="cast_play">"ಪ್ಲೇ"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"ರಿವೈಂಡ್"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"ಹತ್ತು ಸೆಕೆಂಡುಗಳಷ್ಟು ರಿವೈಂಡ್ ಮಾಡು"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"ಮೂವತ್ತು ಸೆಕೆಂಡುಗಳಷ್ಟು ರಿವೈಂಡ್ ಮಾಡು"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"ಪ್ಲೇಬ್ಯಾಕ್‌ ಸೀಕ್ ನಿಯಂತ್ರಣ"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"ಮುಂದಿನ ಐಟಂಗೆ ಸ್ಕಿಪ್‌ ಮಾಡಿ"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"ಹಿಂದಿನ ಐಟಂಗೆ ಸ್ಕಿಪ್‌ ಮಾಡಿ"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"ನಿಲ್ಲಿಸಿ"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"ಲೈವ್ ಸ್ಟ್ರೀಮ್ ನಿಲ್ಲಿಸಿ"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"ಆಡಿಯೊ"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"ರದ್ದು ಮಾಡಿ"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"ಮುಚ್ಚಿದ ಶೀರ್ಷಿಕೆಗಳು"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"<ns1:g id="POSITION">%1$d</ns1:g> ಟ್ರ್ಯಾಕ್ ಮಾಡಿ"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"ಯಾವುದೂ ಅಲ್ಲ"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"ಸರಿ"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"ಉಪಶೀರ್ಷಿಕೆಗಳು"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"ಅನ್‌ಮ್ಯೂಟ್"</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> ಗೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು ಮೇಲೆ ತೋರಿಸಿದ ಕೋಡ್ ಅನ್ನು ನಮೂದಿಸಿ.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">ಚಿತ್ರವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವಾಗ ಅನಿರೀಕ್ಷಿತ ದೋಷ.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">ವೆಬ್ ವೀಕ್ಷಣೆ ಲಾಗಿನ್‌ಗೆ ಇಂಟರ್ನೆಟ್ ಅನುಮತಿಯ ಅಗತ್ಯವಿದೆ</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">Android ಮ್ಯಾನಿಫೆಸ್ಟ್ ದೋಷ</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">ಇಷ್ಟ</string>
+    <string gender="unknown" name="com_facebook_loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">ರದ್ದುಮಾಡು</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">ಲಾಗ್ ಇನ್</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Facebook ನೊಂದಿಗೆ ಮುಂದುವರಿಸಿ</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Facebook ನೊಂದಿಗೆ ಲಾಗ್ ಇನ್ ಮಾಡಿ</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">ಲಾಗ್ ಔಟ್</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">ಲಾಗ್ ಔಟ್</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">%1$s ಎಂದು ಲಾಗಿನ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Facebook ಬಳಸಿ ಲಾಗಿನ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string gender="unknown" name="com_facebook_send_button_text">ಕಳುಹಿಸಿ</string>
+    <string gender="unknown" name="com_facebook_share_button_text">ಹಂಚಿರಿ</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಂಪರ್ಕಿಸಲು, ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಾಧನದಲ್ಲಿ Facebook ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ ಮತ್ತು ಅಧಿಸೂಚನೆಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಿ.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- ಅಥವಾ -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">ನೀವಲ್ಲವೇ?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">%1$s ಎಂದು ಮುಂದುವರಿಸಿ</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">ಲಾಗಿನ್ ಖಚಿತಪಡಿಸಿ</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">ನೀವು ನಿಯಂತ್ರಣದಲ್ಲಿದ್ದಿರಿ- ಅಪ್ಲಿಕೇಶನ್‌ಗಳೊಂದಿಗೆ ನೀವು ಯಾವ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಬೇಕೆಂದು ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"ಸಕ್ರಿಯಗೊಳಿಸು"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play ಸೇವೆಗಳನ್ನು ನೀವು ಸಕ್ರಿಯಗೊಳಿಸದ ಹೊರತು <ns1:g id="APP_NAME">%1$s</ns1:g> ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ಸ್ಥಾಪಿಸು"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"ನಿಮ್ಮ ಸಾಧನದಿಂದ ಕಾಣೆಯಾಗಿರುವ <ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play ಸೇವೆಗಳನ್ನು ಪಡೆಯಿರಿ"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play ಸೇವೆಗಳ ದೋಷ"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Google Play ಸೇವೆಗಳಲ್ಲಿ <ns1:g id="APP_NAME">%1$s</ns1:g> ಸಮಸ್ಯೆಯನ್ನು ಹೊಂದಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"ನಿಮ್ಮ ಸಾಧನದ ಮೂಲಕ ಬೆಂಬಲಿಸದಿರುವ Google Play ಸೇವೆಗಳಿಲ್ಲದೆ <ns1:g id="APP_NAME">%1$s</ns1:g> ರನ್‌ ಆಗುವುದಿಲ್ಲ."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"ಅಪ್‌ಡೇಟ್‌ ಮಾಡು"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"ನೀವು Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸದ ಹೊರತು <ns1:g id="APP_NAME">%1$s</ns1:g> ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ಪ್ರಸ್ತುತ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತಿರುವ <ns1:g id="APP_NAME">%1$s</ns1:g> ರನ್ ಆಗುವುದಿಲ್ಲ."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play ಸೇವೆಗಳ ಹೊಸ ಆವೃತ್ತಿ ಅಗತ್ಯವಿದೆ. ಸದ್ಯದಲ್ಲೇ ಅದು ತಾನಾಗಿಯೇ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತದೆ."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"ಫೋನ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ಸೈನ್ ಇನ್"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ಮೂಲಕ ಸೈನ್ ಇನ್ ಮಾಡಿ"</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="2440386660906697298" name="lb_date_separator">"/"</string>
+    <string msgid="8842094924543063706" name="lb_guidedaction_continue_title">"ಮುಂದುವರಿಸು"</string>
+    <string msgid="4015190340667946245" name="lb_guidedaction_finish_title">"ಪೂರ್ಣಗೊಳಿಸು"</string>
+    <string msgid="3650250994187305396" name="lb_media_player_error">"ಮೀಡಿಯಾ ಪ್ಲೇಯರ್ ದೋಷ ಕೋಡ್ %1$d ಹೆಚ್ಚುವರಿ %2$d"</string>
+    <string msgid="6215811486591629025" name="lb_navigation_menu_contentDescription">"ನ್ಯಾವಿಗೇಶನ್‌ ಮೆನು"</string>
+    <string msgid="2918313444257732434" name="lb_onboarding_accessibility_next">"ಮುಂದೆ"</string>
+    <string msgid="6961440391306351139" name="lb_onboarding_get_started">"ಪ್ರಾರಂಭಿಸಿ"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"ಮುಚ್ಚಿದ ಶೀರ್ಷಿಕೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"ಮುಚ್ಚಿದ ಶೀರ್ಷಿಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"ಫಾಸ್ಟ್ ಫಾರ್ವರ್ಡ್"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"ಫಾಸ್ಟ್ ಫಾರ್ವರ್ಡ್ %1$dX"</string>
+    <string msgid="8940984081242033574" name="lb_playback_controls_hidden">"ಮಾಧ್ಯಮ ನಿಯಂತ್ರಣಗಳನ್ನು ಮರೆಮಾಡಲಾಗಿದೆ, ತೋರಿಸಲು d-pad ಒತ್ತಿರಿ"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"ಹೆಚ್ಚು ಗುಣಮಟ್ಟವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"ಹೆಚ್ಚು ಗುಣಮಟ್ಟವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"ಹೆಚ್ಚು ಕ್ರಿಯೆಗಳು"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"ವಿರಾಮಗೊಳಿಸು"</string>
+    <string msgid="3040035547765350690" name="lb_playback_controls_picture_in_picture">"ಚಿತ್ರವನ್ನು ಚಿತ್ರ ಮೋಡ್‌ನಲ್ಲಿ ಪ್ರವೇಶಿಸಿ"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"ಪ್ಲೇ ಮಾಡು"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"ಎಲ್ಲವನ್ನು ಪುನರಾವರ್ತಿಸಿ"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"ಯಾವುದನ್ನೂ ಪುನರಾವರ್ತಿಸಬೇಡಿ"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"ಒಂದನ್ನು ಪುನರಾವರ್ತಿಸಿ"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"ರೀವೈಂಡ್"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"ರಿವೈಂಡ್ %1$dX"</string>
+    <string msgid="6382160135512023238" name="lb_playback_controls_shown">"ಮಾಧ್ಯಮ ನಿಯಂತ್ರಣಗಳನ್ನು ತೋರಿಸಲಾಗಿದೆ"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"ಜೋಡಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"ಜೋಡಿಸುವುದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"ಮುಂದೆ ಸ್ಕಿಪ್ ಮಾಡಿ"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"ಹಿಂದೆ ಸ್ಕಿಪ್ ಮಾಡಿ"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"ಥಂಬ್ ಡೌನ್ ಆಯ್ಕೆರದ್ದುಮಾಡಿ"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"ಥಂಬ್ ಡೌನ್ ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"ಥಂಬ್ ಅಪ್ ಆಯ್ಕೆರದ್ದುಮಾಡಿ"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"ಥಂಬ್ ಅಪ್ ಆಯ್ಕೆಮಾಡಿ"</string>
+    <string msgid="3208380806582304911" name="lb_playback_time_separator">"/"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"ಹುಡುಕಿ"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"ಹುಡುಕಲು ಮಾತನಾಡಿ"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> ಹುಡುಕಿ"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> ಮಾತನಾಡಿ ಹುಡುಕಾಟ ನಡೆಸಿ"</string>
+    <string msgid="2763247350845477227" name="lb_time_separator">":"</string>
+    <string msgid="3698378085901466129" name="mr_button_content_description">"ಬಿತ್ತರಿಸು ಬಟನ್‌"</string>
+    <string msgid="5088427771788648085" name="mr_cast_button_connected">"ಬಿತ್ತರಿಸು ಬಟನ್‌. ಸಂಪರ್ಕಿತಗೊಂಡಿದೆ"</string>
+    <string msgid="2187642765091873834" name="mr_cast_button_connecting">"ಬಿತ್ತರಿಸು ಬಟನ್‌. ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ"</string>
+    <string msgid="816305490427819240" name="mr_cast_button_disconnected">"ಬಿತ್ತರಿಸು ಬಟನ್‌. ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string msgid="6349900579507521956" name="mr_chooser_searching">"ಸಾಧನಗಳನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆ"</string>
+    <string msgid="414301941546135990" name="mr_chooser_title">"ಇದಕ್ಕೆ ಬಿತ್ತರಿಸಿ"</string>
+    <string msgid="6422801843540543585" name="mr_controller_album_art">"ಆಲ್ಬಮ್ ಕಲೆ"</string>
+    <string msgid="4868457957151124867" name="mr_controller_casting_screen">"ಪರದೆಯನ್ನು ಬಿತ್ತರಿಸಲಾಗುತ್ತಿದೆ"</string>
+    <string msgid="7333862312480583260" name="mr_controller_close_description">"ಮುಚ್ಚು"</string>
+    <string msgid="7924809056904240926" name="mr_controller_collapse_group">"ಸಂಕುಚಿಸು"</string>
+    <string msgid="1227264889412989580" name="mr_controller_disconnect">"ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸು"</string>
+    <string msgid="8062427022744266907" name="mr_controller_expand_group">"ವಿಸ್ತರಿಸು"</string>
+    <string msgid="5585418471741142924" name="mr_controller_no_info_available">"ಯಾವುದೇ ಮಾಹಿತಿ ಲಭ್ಯವಿಲ್ಲ"</string>
+    <string msgid="6547130360349182381" name="mr_controller_no_media_selected">"ಯಾವುದೇ ಮಾಧ್ಯಮ ಆಯ್ಕೆಮಾಡಲಾಗಿಲ್ಲ"</string>
+    <string msgid="5451884435510905406" name="mr_controller_pause">"ವಿರಾಮ"</string>
+    <string msgid="683634565969987458" name="mr_controller_play">"ಪ್ಲೇ ಮಾಡಿ"</string>
+    <string msgid="735874641921425123" name="mr_controller_stop">"ನಿಲ್ಲಿಸಿ"</string>
+    <string msgid="8857886794086583226" name="mr_controller_stop_casting">"ಬಿತ್ತರಿಸುವಿಕೆ ನಿಲ್ಲಿಸಿ"</string>
+    <string msgid="2361785992211841709" name="mr_controller_volume_slider">"ವಾಲ್ಯೂಮ್ ಸ್ಲೈಡರ್"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"ಸಿಸ್ಟಂ"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"ಸಾಧನಗಳು"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"ಹುಡುಕಾಟ ಕ್ರಿಯೆ"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ಹುಡುಕಿ"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

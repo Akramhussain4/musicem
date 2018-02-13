@@ -42,16 +42,16 @@ public final class R {
         public static final int exo_media_button_width = 0x7f0c00cc;
     }
     public static final class drawable {
-        public static final int exo_controls_fastforward = 0x7f0200c4;
-        public static final int exo_controls_next = 0x7f0200c5;
-        public static final int exo_controls_pause = 0x7f0200c6;
-        public static final int exo_controls_play = 0x7f0200c7;
-        public static final int exo_controls_previous = 0x7f0200c8;
-        public static final int exo_controls_repeat_all = 0x7f0200c9;
-        public static final int exo_controls_repeat_off = 0x7f0200ca;
-        public static final int exo_controls_repeat_one = 0x7f0200cb;
-        public static final int exo_controls_rewind = 0x7f0200cc;
-        public static final int exo_edit_mode_logo = 0x7f0200cd;
+        public static final int exo_controls_fastforward = 0x7f0200c3;
+        public static final int exo_controls_next = 0x7f0200c4;
+        public static final int exo_controls_pause = 0x7f0200c5;
+        public static final int exo_controls_play = 0x7f0200c6;
+        public static final int exo_controls_previous = 0x7f0200c7;
+        public static final int exo_controls_repeat_all = 0x7f0200c8;
+        public static final int exo_controls_repeat_off = 0x7f0200c9;
+        public static final int exo_controls_repeat_one = 0x7f0200ca;
+        public static final int exo_controls_rewind = 0x7f0200cb;
+        public static final int exo_edit_mode_logo = 0x7f0200cc;
     }
     public static final class id {
         public static final int all = 0x7f130054;
@@ -82,8 +82,8 @@ public final class R {
         public static final int texture_view = 0x7f13005e;
     }
     public static final class layout {
-        public static final int exo_playback_control_view = 0x7f04003d;
-        public static final int exo_simple_player_view = 0x7f04003e;
+        public static final int exo_playback_control_view = 0x7f04003e;
+        public static final int exo_simple_player_view = 0x7f04003f;
     }
     public static final class string {
         public static final int exo_controls_fastforward_description = 0x7f0b005f;

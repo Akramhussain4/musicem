@@ -196,6 +196,10 @@
         "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_info_outline_grey600_48dp.png"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.jpg",
+        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.jpg"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_group_collapse_00.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_00.png"
     },
@@ -252,6 +256,10 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xxxhdpi-v4\\ic_group_expand_10.png"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_insert_emoticon_black_24dp.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_insert_emoticon_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -294,10 +302,6 @@
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_refresh_white_24.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-xxxhdpi-v4\\quantum_ic_refresh_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",

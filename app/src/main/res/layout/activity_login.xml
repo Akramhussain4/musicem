@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="#ffffff"
+    android:background="#f8f8f8"
     android:layout_height="match_parent"
     tools:context="com.example.hampi.musicemlogin.LoginActivity">
 

@@ -331,6 +331,7 @@ public class MainActivity extends Activity {
                     Intent intent = new Intent(getApplicationContext(),PlaceholderActivity.class);
                     intent.putExtra("emotion",status);
                     startActivity(intent);
+                    finish();
                 }
             }
         }

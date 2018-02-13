@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
-INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
-INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
-INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\6fd98fcd8c034edba5f59b4013eee268\AndroidManifest.xml:2:1-6:12
 MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\f86d65c607dd16e64b4ae78528822e86\AndroidManifest.xml:21:1-31:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9af34faf7fff2218440d2165790ca985\AndroidManifest.xml:17:1-31:12
@@ -64,22 +64,22 @@ MERGED from [com.google.android.gms:play-services-cast-license:11.6.2] C:\Users\
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cb58ae2c85c3603fd27f254b8a5f4709\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\6fe11c98521ad19430bcd7049f5377a1\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\44fdde70fb875e7dbf966f04ed0f9d02\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
-INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
-INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
+INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
 	package
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:4:5-45
 		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
 		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-145:12
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
 		INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:2:11-69
@@ -126,19 +126,19 @@ ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:11:
 	android:name
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:11:22-73
 uses-feature#android.software.leanback
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:12:5-14:36
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:13:5-15:36
 	android:required
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:14:9-33
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:15:9-33
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:13:9-49
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:14:9-49
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:15:5-17:36
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:16:5-18:36
 	android:required
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:17:9-33
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:18:9-33
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:16:9-52
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:17:9-52
 application
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:19:5-143:19
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:20:5-151:19
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\6fd98fcd8c034edba5f59b4013eee268\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\6fd98fcd8c034edba5f59b4013eee268\AndroidManifest.xml:5:5-20
 MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\f86d65c607dd16e64b4ae78528822e86\AndroidManifest.xml:28:5-29:19
@@ -216,19 +216,19 @@ MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\User
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\44fdde70fb875e7dbf966f04ed0f9d02\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\44fdde70fb875e7dbf966f04ed0f9d02\AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:25:9-35
 	android:label
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:23:9-41
 	tools:ignore
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:26:9-39
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:27:9-39
 	android:roundIcon
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:23:9-54
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:24:9-54
 	android:icon
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:22:9-39
 	android:allowBackup
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:21:9-35
 	android:theme
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:26:9-40
 meta-data#com.google.android.gms.car.application
 ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:28:9-30:59
 	android:resource
@@ -244,111 +244,111 @@ MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Huss
 	android:name
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:32:13-58
 activity#com.example.hampi.musicemlogin.LoginActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:34:9-40:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:35:9-41:20
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:34:19-48
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:35:19-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:39:27-74
 activity#com.example.hampi.musicemlogin.MainActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:41:9-44:59
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:42:9-45:59
 	android:screenOrientation
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:43:13-49
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:44:13-49
 	android:theme
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:44:13-56
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:45:13-56
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:42:13-41
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:43:13-41
 activity#com.example.hampi.musicemlogin.SignupActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:45:9-48:59
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:46:9-49:59
 	android:screenOrientation
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:47:13-49
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:48:13-49
 	android:theme
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:48:13-56
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:49:13-56
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:46:13-43
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:47:13-43
 activity#com.example.hampi.musicemlogin.ResetPasswordActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:49:9-52:59
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:50:9-53:59
 	android:screenOrientation
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:51:13-49
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:52:13-49
 	android:theme
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:52:13-56
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:53:13-56
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:50:13-50
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:51:13-50
 meta-data#com.facebook.sdk.ApplicationId
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:54:9-56:55
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:55:9-57:55
 	android:value
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:56:13-52
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:57:13-52
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:55:13-58
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:56:13-58
 activity#com.facebook.FacebookActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:58:9-61:48
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:59:9-62:48
 MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:29:9-32:66
 MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:29:9-32:66
 	android:label
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:61:13-45
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:62:13-45
 	android:configChanges
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:60:13-96
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:61:13-96
 	android:theme
 		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\632f54cc189f8ff1649d3d88195d1848\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:59:13-57
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:60:13-57
 activity#com.facebook.CustomTabActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:62:9-73:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:63:9-74:20
 	android:exported
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:64:13-36
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:65:13-36
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:63:13-58
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:64:13-58
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:65:13-72:29
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:66:13-73:29
 action#android.intent.action.VIEW
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:66:17-69
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:67:17-69
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:66:25-66
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:67:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:68:17-76
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:69:17-76
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:68:27-73
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:69:27-73
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:69:17-78
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:70:17-78
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:69:27-75
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:70:27-75
 data
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:71:17-75
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:72:17-75
 	android:scheme
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:71:23-72
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:72:23-72
 activity#com.example.hampi.musicemlogin.ui.MusicPlayerActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:75:9-83:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:75:9-85:20
 	android:label
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:77:13-45
 	android:name
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:76:13-51
 intent-filter#android.intent.category.DEFAULT+android.media.action.MEDIA_PLAY_FROM_SEARCH
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:79:13-82:29
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:80:13-84:29
 action#android.media.action.MEDIA_PLAY_FROM_SEARCH
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:80:17-86
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:81:17-86
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:80:25-83
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:81:25-83
 activity#com.example.hampi.musicemlogin.ui.PlaceholderActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:84:9-87:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:86:9-88:57
 	android:label
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:86:13-45
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:88:13-45
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:85:13-51
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:87:13-51
 activity#com.example.hampi.musicemlogin.ui.NowPlayingActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:88:9-91:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:89:9-91:61
 	android:icon
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:90:13-49
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:91:13-49
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:89:13-50
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:90:13-50
 activity#com.example.hampi.musicemlogin.ui.tv.TvBrowseActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:92:9-100:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:92:9-101:20
 	android:label
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:94:13-45
 	android:theme
@@ -356,91 +356,95 @@ ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:92:
 	android:name
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:93:13-51
 intent-filter#android.intent.action.MAIN+android.intent.category.LEANBACK_LAUNCHER
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:96:13-99:29
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:96:13-100:29
 category#android.intent.category.LEANBACK_LAUNCHER
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:98:17-86
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:99:17-86
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:98:27-83
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:99:27-83
 activity#com.example.hampi.musicemlogin.ui.tv.TvVerticalGridActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:101:9-104:68
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:102:9-105:60
 	android:parentActivityName
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:104:13-65
 	android:theme
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:103:13-57
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:105:13-57
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:102:13-57
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:103:13-57
 activity#com.example.hampi.musicemlogin.ui.tv.TvPlaybackActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:105:9-108:68
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:106:9-109:60
 	android:parentActivityName
 		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:108:13-65
 	android:theme
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:107:13-57
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:109:13-57
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:106:13-53
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:107:13-53
 meta-data#com.google.android.gms.car.notification.SmallIcon
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:109:9-111:60
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:111:9-113:60
 	android:resource
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:111:13-57
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:113:13-57
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:110:13-77
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:112:13-77
 meta-data#com.google.android.gms.car.application.theme
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:112:9-114:50
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:114:9-116:50
 	android:resource
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:114:13-47
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:116:13-47
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:113:13-72
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:115:13-72
 meta-data#com.google.android.wearable.media.theme
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:115:9-117:51
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:117:9-119:51
 	android:resource
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:117:13-48
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:119:13-48
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:116:13-67
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:118:13-67
 service#com.example.hampi.musicemlogin.MusicService
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:118:9-125:19
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:121:9-128:19
 	android:exported
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:120:13-36
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:123:13-36
 	tools:ignore
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:121:13-43
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:124:13-43
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:119:13-41
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:122:13-41
 intent-filter#android.media.browse.MediaBrowserService
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:122:13-124:29
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:125:13-127:29
 action#android.media.browse.MediaBrowserService
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:123:17-83
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:126:17-83
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:123:25-80
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:126:25-80
 meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:126:9-128:82
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:130:9-132:82
 	android:value
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:128:13-79
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:132:13-79
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:127:13-93
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:131:13-93
 activity#com.example.hampi.musicemlogin.ui.FullScreenPlayerActivity
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:129:9-137:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:134:9-142:20
 	android:parentActivityName
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:133:13-65
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:138:13-65
 	android:label
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:131:13-45
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:136:13-45
 	android:launchMode
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:132:13-43
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:137:13-43
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:130:13-56
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:135:13-56
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:134:13-136:58
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:139:13-141:59
 	android:value
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:136:17-56
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:141:17-56
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:135:17-63
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:140:17-63
 receiver#android.support.v4.media.session.MediaButtonReceiver
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:138:9-142:20
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:144:9-148:20
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:138:19-86
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:144:19-86
 intent-filter#android.intent.action.MEDIA_BUTTON
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:139:13-141:29
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:145:13-147:29
 action#android.intent.action.MEDIA_BUTTON
-ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:140:17-77
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:146:17-77
 	android:name
-		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:140:25-74
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:146:25-74
+activity#com.example.hampi.musicemlogin.AboutActivity
+ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:150:9-60
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml:150:19-48
 uses-sdk
 INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Hussain\Desktop\musicem\app\src\main\AndroidManifest.xml

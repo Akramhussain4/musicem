@@ -196,7 +196,7 @@
     <color name="colorButtonDark">#4B4B4B</color>
     <color name="colorButtonGrey">#424242</color>
     <color name="colorPink">#F3716C</color>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary">#00bfa5</color>
     <color name="colorPrimaryDark">#212121</color>
     <color name="colorTextDark">#636363</color>
     <color name="colorTextGrey">#66484848</color>
@@ -1642,7 +1642,7 @@
     <string name="default_web_client_id" translatable="false">774041571476-bmcsgji2vg1fa0eis6e6rj01i69baq4b.apps.googleusercontent.com</string>
     <string name="dismiss_overlay_button_label">Quit</string>
     <string name="drawer_allmusic_title">All Music</string>
-    <string name="drawer_playlists_title">Playlists</string>
+    <string name="drawer_analyze_title">Analyze Emotions</string>
     <string name="email">Email</string>
     <string name="email_id">Email ID</string>
     <string name="error_loading_media">Error Loading Media</string>
@@ -1798,10 +1798,11 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="alertDialogTheme">@style/Theme.AppCompat.Dialog.Alert</item>
     </style>
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
@@ -2859,19 +2860,10 @@
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
     </style>
     <style name="CarTheme" parent="UAmpAppTheme">
-        <!-- colorPrimaryDark is currently used in Android Auto for:
-             - App background
-             - Drawer right side ("more" custom actions) background
-             - Notification icon badge tinting
-             - Overview “now playing” icon tinting
-         -->
+        
         <item name="colorPrimaryDark">#ffbf360c</item>
 
-        <!-- colorAccent is used in Android Auto for:
-             - Spinner
-             - progress bar
-             - floating action button background (Play/Pause in media apps)
-         -->
+        
         <item name="colorAccent">@color/bt_accent</item>
     </style>
     <style name="CardView" parent="Base.CardView">
@@ -3603,10 +3595,7 @@
         <item name="mediaRouteAudioTrackDrawable">@drawable/mr_vol_type_audiotrack_light</item>
     </style>
     <style name="WearTheme" parent="UAmpAppTheme">
-        <!-- colorPrimaryDark is currently used on Android Wear for:
-             - Card background on media browse
-             - Card background on 4-way media controls
-         -->
+        
         <item name="colorPrimaryDark">#ffbf360c</item>
     </style>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">

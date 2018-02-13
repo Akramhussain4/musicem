@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_title.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_browse_title.xml"
-    },
-    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_1_line.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_action_1_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_title.xml",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_browse_title.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_item.xml",
@@ -36,12 +36,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_section_header.xml",
@@ -64,6 +64,10 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_secondary.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_control_button_secondary.xml"
     },
@@ -80,12 +84,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\353a0e58452e306da445216a0526d216\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_now_playing_bars.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_playback_now_playing_bars.xml"
-    },
-    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_now_playing_bars.xml",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_playback_now_playing_bars.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_transport_controls.xml",

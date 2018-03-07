@@ -4,6 +4,18 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
     },
     {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_repeat_one.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_repeat_one.png"
     },
@@ -20,11 +32,23 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
     },
     {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_repeat_all.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_repeat_all.png"
     },
     {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_edit_mode_logo.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_repeat_off.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_repeat_off.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_repeat_off.png"
     },
     {
@@ -32,11 +56,27 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_next.png"
     },
     {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_edit_mode_logo.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_edit_mode_logo.png"
     },
     {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_repeat_all.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_repeat_one.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-ldpi-v4\\exo_controls_repeat_one.png"
     }
 ]

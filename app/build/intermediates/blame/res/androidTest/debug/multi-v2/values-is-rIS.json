@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-is-rIS\\values-is-rIS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,134,204,269,335,409,490,573,654,731",
+                        "endColumns": "78,69,64,65,73,80,82,80,76,66",
+                        "endOffsets": "129,199,264,330,404,485,568,649,726,793"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-is-rIS\\values-is-rIS.xml",
             "map": [
                 {
@@ -17,6 +32,21 @@
         },
         {
             "outputFile": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-is-rIS\\values-is-rIS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\values-is-rIS\\values-is-rIS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,134,204,269,335,409,490,573,654,731",
+                        "endColumns": "78,69,64,65,73,80,82,80,76,66",
+                        "endOffsets": "129,199,264,330,404,485,568,649,726,793"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-is-rIS\\values-is-rIS.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\values-is-rIS\\values-is-rIS.xml",

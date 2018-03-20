@@ -18,6 +18,7 @@ package com.example.hampi.musicemlogin.model;
 
 import android.support.v4.media.MediaMetadataCompat;
 
+import com.example.hampi.musicemlogin.MainActivity;
 import com.example.hampi.musicemlogin.utils.LogHelper;
 
 import org.json.JSONArray;
@@ -38,10 +39,11 @@ import java.util.Iterator;
  */
 public class RemoteJSONSource implements MusicProviderSource {
 
+
     private static final String TAG = LogHelper.makeLogTag(RemoteJSONSource.class);
 
     protected static final String CATALOG_URL =
-        "http://storage.googleapis.com/automotive-media/music.json";
+        "http://musicem.azurewebsites.net/api/Todo/"+ MainActivity.status;
 
     private static final String JSON_MUSIC = "music";
     private static final String JSON_TITLE = "title";
@@ -50,8 +52,8 @@ public class RemoteJSONSource implements MusicProviderSource {
     private static final String JSON_GENRE = "genre";
     private static final String JSON_SOURCE = "source";
     private static final String JSON_IMAGE = "image";
-    private static final String JSON_TRACK_NUMBER = "trackNumber";
-    private static final String JSON_TOTAL_TRACK_COUNT = "totalTrackCount";
+    //private static final String JSON_TRACK_NUMBER = "trackNumber";
+    //private static final String JSON_TOTAL_TRACK_COUNT = "totalTrackCount";
     private static final String JSON_DURATION = "duration";
 
     @Override
@@ -84,8 +86,8 @@ public class RemoteJSONSource implements MusicProviderSource {
         String genre = json.getString(JSON_GENRE);
         String source = json.getString(JSON_SOURCE);
         String iconUrl = json.getString(JSON_IMAGE);
-        int trackNumber = json.getInt(JSON_TRACK_NUMBER);
-        int totalTrackCount = json.getInt(JSON_TOTAL_TRACK_COUNT);
+       // int trackNumber = json.getInt(JSON_TRACK_NUMBER);
+       // int totalTrackCount = json.getInt(JSON_TOTAL_TRACK_COUNT);
         int duration = json.getInt(JSON_DURATION) * 1000; // ms
 
         LogHelper.d(TAG, "Found music track: ", json);
@@ -115,8 +117,8 @@ public class RemoteJSONSource implements MusicProviderSource {
                 .putString(MediaMetadataCompat.METADATA_KEY_GENRE, genre)
                 .putString(MediaMetadataCompat.METADATA_KEY_ALBUM_ART_URI, iconUrl)
                 .putString(MediaMetadataCompat.METADATA_KEY_TITLE, title)
-                .putLong(MediaMetadataCompat.METADATA_KEY_TRACK_NUMBER, trackNumber)
-                .putLong(MediaMetadataCompat.METADATA_KEY_NUM_TRACKS, totalTrackCount)
+              //  .putLong(MediaMetadataCompat.METADATA_KEY_TRACK_NUMBER, trackNumber)
+              //  .putLong(MediaMetadataCompat.METADATA_KEY_NUM_TRACKS, totalTrackCount)
                 .build();
     }
 

@@ -17,6 +17,7 @@ package com.example.hampi.musicemlogin.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.PersistableBundle;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -31,11 +32,12 @@ import com.example.hampi.musicemlogin.R;
 public class PlaceholderActivity extends BaseActivity {
 
     private String emotion;
+    private TextView textView;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_placeholder);
-        TextView textView = findViewById(R.id.placeholder);
+        textView = findViewById(R.id.placeholder);
         emotion = String.valueOf(getIntent().getExtras().get("emotion"));
         textView.setText("You look " + emotion);
         initializeToolbar();
@@ -44,11 +46,25 @@ public class PlaceholderActivity extends BaseActivity {
     public void analyzeEmotions(View view) {
         Intent intent = new Intent(getApplicationContext(), MainActivity.class);
         startActivity(intent);
+        finish();
     }
 
     public void cool(View view) {
         Toast.makeText(this,"Enojoy the Music!",Toast.LENGTH_SHORT).show();
         Intent intent = new Intent(getApplicationContext(), MusicPlayerActivity.class);
         startActivity(intent);
+    }
+
+    @Override
+    public void onSaveInstanceState(Bundle outState, PersistableBundle outPersistentState) {
+        super.onSaveInstanceState(outState, outPersistentState);
+        outState.putString("emo", emotion);
+    }
+
+    @Override
+    public void onRestoreInstanceState(Bundle savedInstanceState, PersistableBundle persistentState) {
+        super.onRestoreInstanceState(savedInstanceState, persistentState);
+        String emo = savedInstanceState.getString("emo");
+        textView.setText("You look " + emo);
     }
 }

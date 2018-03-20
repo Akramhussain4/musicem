@@ -15,7 +15,6 @@ import android.os.Environment;
 import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.util.Log;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.hampi.musicemlogin.ui.PlaceholderActivity;
@@ -40,22 +39,20 @@ import java.util.Collections;
 import java.util.List;
 
 public class MainActivity extends Activity {
-    private ProgressDialog p;
     private Uri mUriPhotoTaken;
     private FirebaseAuth auth;
-    private String status;
     private Bitmap mBitmap;
     private EmotionServiceClient client;
+    public  static String status;
     private static final int REQUEST_SELECT_IMAGE = 0;
     private static final int REQUEST_TAKE_PHOTO = 0;
-    TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
        // textView = (TextView) findViewById(R.id.editText);
-        p = new ProgressDialog(this);
+        ProgressDialog p = new ProgressDialog(this);
         p.setMessage("Analyzing Emotions!!");
         p.setIndeterminate(false);
         p.setProgressStyle(ProgressDialog.STYLE_SPINNER);
@@ -70,7 +67,6 @@ public class MainActivity extends Activity {
                 FirebaseUser user = firebaseAuth.getCurrentUser();
                 if (user == null) {
                     startActivity(new Intent(MainActivity.this, LoginActivity.class));
-                    finish();
                 }
             }
         };
@@ -84,6 +80,7 @@ public class MainActivity extends Activity {
                 mUriPhotoTaken = Uri.fromFile(file);
                 intent.putExtra(MediaStore.EXTRA_OUTPUT, mUriPhotoTaken);
                 startActivityForResult(intent, REQUEST_TAKE_PHOTO);
+
             } catch (IOException e) {
                 //
             }

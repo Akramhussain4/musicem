@@ -294,7 +294,10 @@ public class MusicProvider {
         }
 
         if (MEDIA_ID_ROOT.equals(mediaId)) {
-            mediaItems.add(createBrowsableMediaItemForRoot(resources));
+            //mediaItems.add(createBrowsableMediaItemForRoot(resources));
+            for (MediaMetadataCompat metadata : getShuffledMusic()) {
+                mediaItems.add(createMediaItem(metadata));
+            }
 
         } else if (MEDIA_ID_MUSICS_BY_GENRE.equals(mediaId)) {
             for (String genre : getGenres()) {

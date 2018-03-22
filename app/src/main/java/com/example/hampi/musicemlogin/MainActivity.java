@@ -3,6 +3,7 @@ package com.example.hampi.musicemlogin;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -33,6 +34,7 @@ import com.microsoft.projectoxford.face.contract.Face;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -42,6 +44,7 @@ public class MainActivity extends Activity {
     private Uri mUriPhotoTaken;
     private FirebaseAuth auth;
     private Bitmap mBitmap;
+    private ProgressDialog p;
     private EmotionServiceClient client;
     public  static String status;
     private static final int REQUEST_SELECT_IMAGE = 0;
@@ -52,7 +55,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
        // textView = (TextView) findViewById(R.id.editText);
-        ProgressDialog p = new ProgressDialog(this);
+        p = new ProgressDialog(this);
         p.setMessage("Analyzing Emotions!!");
         p.setIndeterminate(false);
         p.setProgressStyle(ProgressDialog.STYLE_SPINNER);
@@ -253,7 +256,6 @@ public class MainActivity extends Activity {
         return result;
     }
 
-
     private class doRequest extends AsyncTask<String, String, List<RecognizeResult>> {
         // Store error message
         private Exception e = null;
@@ -297,7 +299,6 @@ public class MainActivity extends Activity {
                 if (result.size() == 0) {
                     //   mEditText.append("No emotion detected :(");
                 } else {
-                    Integer count = 0;
                     // Covert bitmap to a mutable bitmap by copying it
                     Bitmap bitmapCopy = mBitmap.copy(Bitmap.Config.ARGB_8888, true);
                     Canvas faceCanvas = new Canvas(bitmapCopy);
@@ -311,26 +312,33 @@ public class MainActivity extends Activity {
                         status = getEmo(r);
                     }
 
-                    for (RecognizeResult t : result) {
-                        String.format("\nFace #%1$d \n", count);
-                        String.format("\t anger: %1$.5f\n", t.scores.anger);
-                        String.format("\t contempt: %1$.5f\n", t.scores.contempt);
-                        String.format("\t disgust: %1$.5f\n", t.scores.disgust);
-                        String.format("\t fear: %1$.5f\n", t.scores.fear);
-                        String.format("\t happiness: %1$.5f\n", t.scores.happiness);
-                        String.format("\t neutral: %1$.5f\n", t.scores.neutral);
-                        String.format("\t sadness: %1$.5f\n", t.scores.sadness);
-                        String.format("\t surprise: %1$.5f\n", t.scores.surprise);
-
-                    }
                    /* Log.d("response", status);*/
                    // textView.setText(status);
+
+                    createImageFromBitmap(mBitmap);
                     Intent intent = new Intent(getApplicationContext(),PlaceholderActivity.class);
                     intent.putExtra("emotion",status);
+                    p.dismiss();
                     startActivity(intent);
                     finish();
                 }
             }
+        }
+
+        public String createImageFromBitmap(Bitmap bitmap) {
+            String fileName = "myImage";//no .png or .jpg needed
+            try {
+                ByteArrayOutputStream bytes = new ByteArrayOutputStream();
+                bitmap.compress(Bitmap.CompressFormat.JPEG, 100, bytes);
+                FileOutputStream fo = openFileOutput(fileName, Context.MODE_PRIVATE);
+                fo.write(bytes.toByteArray());
+                // remember close file output
+                fo.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+                fileName = null;
+            }
+            return fileName;
         }
 
 

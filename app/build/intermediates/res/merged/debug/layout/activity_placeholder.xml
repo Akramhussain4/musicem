@@ -84,6 +84,16 @@
             android:text="No, That's Good!"
             android:textAppearance="@android:style/TextAppearance.Material.Medium"
             android:id="@+id/button2" />
+
+        <ImageView
+            android:id="@+id/Face_rect"
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_below="@+id/button2"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            tools:src="@drawable/ic_launcher_background" />
+
         <android.support.v7.widget.CardView
             android:id="@+id/controls_container"
             android:layout_width="match_parent"

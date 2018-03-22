@@ -129,7 +129,7 @@ public final class R {
     public static final class id {
         public static final int alertTitle = 0x7f1300d0;
         public static final int all = 0x7f130054;
-        public static final int animatedWrapperContainer = 0x7f130112;
+        public static final int animatedWrapperContainer = 0x7f130113;
         public static final int bottom = 0x7f130076;
         public static final int buttonPanel = 0x7f1300c3;
         public static final int center = 0x7f13007a;
@@ -137,15 +137,15 @@ public final class R {
         public static final int center_vertical = 0x7f13007c;
         public static final int clip_horizontal = 0x7f130082;
         public static final int clip_vertical = 0x7f130083;
-        public static final int dismiss_overlay_button = 0x7f13014c;
-        public static final int dismiss_overlay_explain = 0x7f13014b;
+        public static final int dismiss_overlay_button = 0x7f13014d;
+        public static final int dismiss_overlay_explain = 0x7f13014c;
         public static final int end = 0x7f13007d;
         public static final int fill = 0x7f130059;
         public static final int fill_horizontal = 0x7f130084;
         public static final int fill_vertical = 0x7f13007e;
         public static final int fit = 0x7f13005a;
         public static final int left = 0x7f130077;
-        public static final int message = 0x7f13014d;
+        public static final int message = 0x7f13014e;
         public static final int parentPanel = 0x7f1300c5;
         public static final int right = 0x7f130078;
         public static final int start = 0x7f13007f;

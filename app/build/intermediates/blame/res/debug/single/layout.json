@@ -12,12 +12,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9af34faf7fff2218440d2165790ca985\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_right.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_rows_fragment.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_rows_fragment.xml"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_right.xml",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_full_player.xml",
@@ -40,12 +40,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\353a0e58452e306da445216a0526d216\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_title.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_image_card_view_themed_title.xml"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_2_lines.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_action_2_lines.xml"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_title.xml",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\layout\\lb_image_card_view_themed_title.xml"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",

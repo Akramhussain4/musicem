@@ -124,12 +124,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_00_light.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_00_light.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_10_light.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_10_light.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connecting_00_light.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_00_light.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_mr_button_connected_06_light.png",

@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="P. Humpy Reddy \nMohammed Akram Hussain \nP. Jyoshna"
+        android:text="Mohammed Akram Hussain\nP. Humpy Reddy"
         android:textAppearance="@android:style/TextAppearance.Material.Medium"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"

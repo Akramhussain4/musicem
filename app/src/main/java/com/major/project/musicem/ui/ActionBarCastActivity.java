@@ -225,6 +225,12 @@ public abstract class ActionBarCastActivity extends AppCompatActivity {
             onBackPressed();
             return true;
         }
+        else if (item != null && item.getItemId() == R.id.signout)
+        {
+            auth = FirebaseAuth.getInstance();
+            auth.signOut();
+            finish();
+        }
         return super.onOptionsItemSelected(item);
     }
 

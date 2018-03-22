@@ -92,24 +92,24 @@
         "source": "D:\\IMP DATA\\Major Project\\musicem\\app\\src\\main\\res\\drawable-mdpi\\uamp_ic_play_arrow_white_48dp.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_forward_30_white_24.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_refresh_white_24.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_refresh_white_24.png"
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_play_arrow_white_24.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_play_arrow_white_24.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_mr_button_disabled_light.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-mdpi-v4\\ic_mr_button_disabled_light.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_play_arrow_white_24.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_play_arrow_white_24.png"
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_refresh_white_24.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_refresh_white_24.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
@@ -144,12 +144,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-mdpi-v4\\ic_vol_type_tv_dark.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_clear_white_24.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_clear_white_24.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_clear_white_24.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_clear_white_24.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\com_facebook_button_icon_white.png",
@@ -212,12 +212,12 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_skip_next_white_36.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_volume_up_white_36.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-mdpi-v4\\quantum_ic_volume_up_white_36.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_volume_off_white_36.png",

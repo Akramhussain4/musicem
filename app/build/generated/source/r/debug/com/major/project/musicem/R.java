@@ -6844,7 +6844,7 @@ containing a value of this type.
         public static final int mediaRowSelector=0x7f1301c2;
         public static final int mediaRowSeparator=0x7f1301c0;
         public static final int media_actions=0x7f1301fc;
-        public static final int media_route_menu_item=0x7f130212;
+        public static final int media_route_menu_item=0x7f130213;
         public static final int message=0x7f13014e;
         public static final int middle=0x7f13008b;
         public static final int mini=0x7f130085;
@@ -6962,6 +6962,7 @@ containing a value of this type.
         public static final int showTitle=0x7f130066;
         public static final int sign_in_button=0x7f130113;
         public static final int sign_up_button=0x7f130112;
+        public static final int signout=0x7f130212;
         public static final int small=0x7f1300aa;
         public static final int smallLabel=0x7f13013f;
         public static final int snackbar_action=0x7f130145;

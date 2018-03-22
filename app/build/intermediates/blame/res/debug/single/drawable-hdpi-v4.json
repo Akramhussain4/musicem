@@ -32,12 +32,12 @@
         "source": "D:\\IMP DATA\\Major Project\\musicem\\app\\src\\main\\res\\drawable-hdpi\\ic_equalizer1_white_36dp.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exo_controls_repeat_one.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-hdpi-v4\\exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_black_36dp.png",
@@ -80,32 +80,32 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_star_off.png",
         "source": "D:\\IMP DATA\\Major Project\\musicem\\app\\src\\main\\res\\drawable-hdpi\\ic_star_off.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.2.aar\\8d631b3fe632266171d9eeb3135c9cd7\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lb_action_bg_focused.9.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\drawable-hdpi-v4\\lb_action_bg_focused.9.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lb_ic_search_mic_out.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\drawable-hdpi-v4\\lb_ic_search_mic_out.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-11.6.2.aar\\71f90912bdbfd62a82843a6c00d0cf4e\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lb_action_bg_focused.9.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\drawable-hdpi-v4\\lb_action_bg_focused.9.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.6.2.aar\\8d631b3fe632266171d9eeb3135c9cd7\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-11.6.2.aar\\71f90912bdbfd62a82843a6c00d0cf4e\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_cancel.png",
@@ -164,24 +164,24 @@
         "source": "D:\\IMP DATA\\Major Project\\musicem\\app\\src\\main\\res\\drawable-hdpi\\uamp_ic_play_arrow_white_24dp.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_full_sad.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\drawable-hdpi-v4\\ic_full_sad.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\115d0ff468fbdfef40b732f2b2ee5957\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.6.2.aar\\c11a3f7c456efaf3a8779633cde16710\\res\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exo_controls_pause.png",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-hdpi-v4\\exo_controls_pause.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_close_dark.png",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\drawable-hdpi-v4\\ic_dialog_close_dark.png"
+    },
+    {
+        "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exo_controls_pause.png",
+        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\drawable-hdpi-v4\\exo_controls_pause.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",

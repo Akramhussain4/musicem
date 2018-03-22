@@ -777,7 +777,7 @@ public final class R {
         public static final int center = 0x7f13007a;
         public static final int checkbox = 0x7f1300d3;
         public static final int chronometer = 0x7f130202;
-        public static final int container = 0x7f13010a;
+        public static final int container = 0x7f13010b;
         public static final int contentPanel = 0x7f1300c6;
         public static final int coordinator = 0x7f130141;
         public static final int custom = 0x7f1300cd;

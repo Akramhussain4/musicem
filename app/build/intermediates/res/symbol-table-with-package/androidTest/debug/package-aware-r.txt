@@ -1,4 +1,4 @@
-com.example.hampi.musicemlogin.test
+com.major.project.musicem.test
 int anim abc_fade_in 0x7f040000
 int anim abc_fade_out 0x7f040001
 int anim abc_grow_fade_in_from_bottom 0x7f040002

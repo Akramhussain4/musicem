@@ -16,36 +16,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-mk-rMK\\values-mk-rMK.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,143,216,283,349,429,511,601,680,757",
-                        "endColumns": "87,72,66,65,79,81,89,78,76,65",
-                        "endOffsets": "138,211,278,344,424,506,596,675,752,818"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-mk-rMK\\values-mk-rMK.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-r2.5.0.aar\\83f97b287afa9a0a2bf6056b35d5402d\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,143,216,283,349,429,511,601,680,757",
-                        "endColumns": "87,72,66,65,79,81,89,78,76,65",
-                        "endOffsets": "138,211,278,344,424,506,596,675,752,818"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-mk-rMK\\values-mk-rMK.xml",
             "map": [
                 {

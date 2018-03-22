@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.hampi.musicemlogin">
+    package="com.major.project.musicem">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -32,7 +32,7 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".LoginActivity">
+        <activity android:name="com.major.project.musicem.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -40,15 +40,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.major.project.musicem.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".SignupActivity"
+            android:name="com.major.project.musicem.SignupActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".ResetPasswordActivity"
+            android:name="com.major.project.musicem.ResetPasswordActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
@@ -73,7 +73,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.MusicPlayerActivity"
+            android:name="com.major.project.musicem.ui.MusicPlayerActivity"
             android:label="@string/app_name">
 
             <!-- Use this intent filter to get voice searches, like "Play The Beatles" -->
@@ -84,13 +84,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.PlaceholderActivity"
+            android:name="com.major.project.musicem.ui.PlaceholderActivity"
             android:label="@string/app_name"></activity>
         <activity
-            android:name=".ui.NowPlayingActivity"
+            android:name="com.major.project.musicem.ui.NowPlayingActivity"
             android:icon="@drawable/ic_launcher"></activity>
         <activity
-            android:name=".ui.tv.TvBrowseActivity"
+            android:name="com.major.project.musicem.ui.tv.TvBrowseActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.UAmp.TVLeanback">
             <intent-filter>
@@ -100,12 +100,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.tv.TvVerticalGridActivity"
-            android:parentActivityName=".ui.tv.TvBrowseActivity"
+            android:name="com.major.project.musicem.ui.tv.TvVerticalGridActivity"
+            android:parentActivityName="com.major.project.musicem.ui.tv.TvBrowseActivity"
             android:theme="@style/Theme.UAmp.TVLeanback" />
         <activity
-            android:name=".ui.tv.TvPlaybackActivity"
-            android:parentActivityName=".ui.tv.TvBrowseActivity"
+            android:name="com.major.project.musicem.ui.tv.TvPlaybackActivity"
+            android:parentActivityName="com.major.project.musicem.ui.tv.TvBrowseActivity"
             android:theme="@style/Theme.UAmp.TVLeanback" />
 
         <meta-data
@@ -119,7 +119,7 @@
             android:resource="@style/WearTheme" />
 
         <service
-            android:name=".MusicService"
+            android:name="com.major.project.musicem.MusicService"
             android:exported="true"
             tools:ignore="ExportedService">
             <intent-filter>
@@ -129,16 +129,16 @@
 
         <meta-data
             android:name="com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME"
-            android:value="com.example.hampi.musicemlogin.CastOptionsProvider" />
+            android:value="com.major.project.musicem.CastOptionsProvider" />
 
         <activity
-            android:name=".ui.FullScreenPlayerActivity"
+            android:name="com.major.project.musicem.ui.FullScreenPlayerActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
-            android:parentActivityName=".ui.MusicPlayerActivity">
+            android:parentActivityName="com.major.project.musicem.ui.MusicPlayerActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".ui.MusicPlayerActivity" />
+                android:value="com.major.project.musicem.ui.MusicPlayerActivity" />
         </activity>
 
         <receiver android:name="android.support.v4.media.session.MediaButtonReceiver">
@@ -147,7 +147,7 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".AboutActivity"></activity>
+        <activity android:name="com.major.project.musicem.AboutActivity"></activity>
     </application>
 
 </manifest>

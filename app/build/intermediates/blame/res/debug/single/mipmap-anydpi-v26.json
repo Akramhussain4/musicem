@@ -1,13 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26\\ic_launcher_round.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26\\ic_launcher.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26\\ic_launcher.xml",
         "source": "D:\\IMP DATA\\Major Project\\musicem\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },

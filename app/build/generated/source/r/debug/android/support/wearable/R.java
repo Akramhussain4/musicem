@@ -129,7 +129,7 @@ public final class R {
     public static final class id {
         public static final int alertTitle = 0x7f1300d0;
         public static final int all = 0x7f130054;
-        public static final int animatedWrapperContainer = 0x7f130113;
+        public static final int animatedWrapperContainer = 0x7f130114;
         public static final int bottom = 0x7f130076;
         public static final int buttonPanel = 0x7f1300c3;
         public static final int center = 0x7f13007a;

@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:774041571476:android:09ed08a0befc8b78",
         "android_client_info": {
-          "package_name": "com.example.hampi.musicemlogin"
+          "package_name": "com.major.project.musicem"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "774041571476-t2isut8v5qdb8juepu2c6n6umsuj1ab1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.hampi.musicemlogin",
+            "package_name": "com.major.project.musicem",
             "certificate_hash": "dd3b7240d877f31b607adb6facb99a155fa66c97"
           }
         },

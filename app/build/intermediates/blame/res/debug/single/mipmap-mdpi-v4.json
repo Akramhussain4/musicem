@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "D:\\IMP DATA\\Major Project\\musicem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_round.png",
         "source": "D:\\IMP DATA\\Major Project\\musicem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_round.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     }
 ]

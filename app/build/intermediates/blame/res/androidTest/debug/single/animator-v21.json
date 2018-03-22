@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_playback_bg_fade_in.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_playback_bg_fade_in.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
     },
@@ -16,36 +12,8 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_onboarding_description_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_onboarding_logo_enter.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_onboarding_logo_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_onboarding_description_enter.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_onboarding_description_enter.xml"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_onboarding_title_enter.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_onboarding_title_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\9af34faf7fff2218440d2165790ca985\\res\\animator-v21\\design_appbar_state_list_animator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_onboarding_page_indicator_enter.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_onboarding_page_indicator_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_onboarding_title_enter.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_onboarding_title_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_playback_bg_fade_out.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_playback_description_fade_out.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_playback_description_fade_out.xml"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_onboarding_logo_enter.xml",
@@ -62,10 +30,6 @@
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_onboarding_page_indicator_enter.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_onboarding_page_indicator_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_onboarding_logo_exit.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\leanback-v17-26.1.0.aar\\d21d7571dd2e5d797b3716dec7468850\\res\\animator-v21\\lb_onboarding_logo_exit.xml"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\animator-v21\\lb_playback_description_fade_out.xml",

@@ -23,54 +23,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\values-h800dp-v13\\values-h800dp-v13.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\values-h800dp\\dimens.xml",
-                    "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "717",
-                        "endColumns": "48",
-                        "endOffsets": "761"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "48",
-                        "endOffsets": "99"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h800dp-v13\\values-h800dp-v13.xml",
             "map": [
                 {
                     "source": "D:\\IMP DATA\\Major Project\\musicem\\app\\src\\main\\res\\values-h800dp\\dimens.xml",
-                    "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "717",
-                        "endColumns": "48",
-                        "endOffsets": "761"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "48",
-                        "endOffsets": "99"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h800dp-v13\\values-h800dp-v13.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\src\\main\\res\\values-h800dp\\dimens.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",

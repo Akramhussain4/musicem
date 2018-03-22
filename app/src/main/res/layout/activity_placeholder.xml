@@ -40,19 +40,36 @@
             android:layout_marginTop="56dp"
             android:gravity="center"
             android:text="@string/placeholder_message" />
+        <ImageView
+            android:id="@+id/Face_rect"
+            android:layout_width="350dp"
+            android:layout_height="300dp"
+            android:layout_below="@+id/placeholder"
+            android:layout_marginTop="20dp"
+            android:layout_centerHorizontal="true"
+            tools:src="@drawable/ic_launcher_background" />
 
+        <ProgressBar
+            android:visibility="gone"
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/Face_rect"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="112dp"
+            />
         <TextView
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
-            android:layout_below="@+id/placeholder"
+            android:layout_below="@+id/Face_rect"
             android:layout_gravity="center"
             android:layout_marginTop="25dp"
             android:gravity="center"
             android:text="Would you like to Re-Analyze your emotions?"
             android:textAppearance="@android:style/TextAppearance.Material.Medium" />
-
+a
         <Button
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
@@ -61,7 +78,7 @@
             android:layout_below="@+id/textView2"
             android:layout_gravity="center"
             android:layout_marginStart="62dp"
-            android:layout_marginTop="37dp"
+            android:layout_marginTop="10dp"
             android:background="@null"
             android:gravity="center"
             android:textColor="@color/colorPrimary"
@@ -75,7 +92,7 @@
             android:layout_alignBaseline="@+id/textView3"
             android:layout_alignBottom="@+id/textView3"
             android:layout_gravity="center"
-            android:layout_marginStart="31dp"
+            android:layout_marginStart="30dp"
             android:textColor="@color/colorPrimary"
             android:layout_toEndOf="@+id/textView3"
             android:background="@null"
@@ -85,14 +102,7 @@
             android:textAppearance="@android:style/TextAppearance.Material.Medium"
             android:id="@+id/button2" />
 
-        <ImageView
-            android:id="@+id/Face_rect"
-            android:layout_width="350dp"
-            android:layout_height="300dp"
-            android:layout_below="@+id/button2"
-            android:layout_marginTop="20dp"
-            android:layout_centerHorizontal="true"
-            tools:src="@drawable/ic_launcher_background" />
+
 
         <android.support.v7.widget.CardView
             android:id="@+id/controls_container"
@@ -101,7 +111,7 @@
             android:layout_alignParentBottom="true"
             app:cardElevation="8dp">
 
-            <fragment android:name="com.example.hampi.musicemlogin.ui.PlaybackControlsFragment"
+            <fragment android:name="com.major.project.musicem.ui.PlaybackControlsFragment"
                 android:id="@+id/fragment_playback_controls"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

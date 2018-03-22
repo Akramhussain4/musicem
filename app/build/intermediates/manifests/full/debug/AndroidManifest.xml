@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hampi.musicemlogin"
+    package="com.major.project.musicem"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -28,10 +28,10 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="com.example.hampi.musicemlogin.permission.C2D_MESSAGE"
+        android:name="com.major.project.musicem.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.hampi.musicemlogin.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.major.project.musicem.permission.C2D_MESSAGE" />
 
     <application
         android:allowBackup="true"
@@ -49,7 +49,7 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name="com.example.hampi.musicemlogin.LoginActivity" >
+        <activity android:name="com.major.project.musicem.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -57,15 +57,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.hampi.musicemlogin.MainActivity"
+            android:name="com.major.project.musicem.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.hampi.musicemlogin.SignupActivity"
+            android:name="com.major.project.musicem.SignupActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.example.hampi.musicemlogin.ResetPasswordActivity"
+            android:name="com.major.project.musicem.ResetPasswordActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
 
@@ -91,7 +91,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.hampi.musicemlogin.ui.MusicPlayerActivity"
+            android:name="com.major.project.musicem.ui.MusicPlayerActivity"
             android:label="@string/app_name" >
 
             <!-- Use this intent filter to get voice searches, like "Play The Beatles" -->
@@ -102,13 +102,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.hampi.musicemlogin.ui.PlaceholderActivity"
+            android:name="com.major.project.musicem.ui.PlaceholderActivity"
             android:label="@string/app_name" />
         <activity
-            android:name="com.example.hampi.musicemlogin.ui.NowPlayingActivity"
+            android:name="com.major.project.musicem.ui.NowPlayingActivity"
             android:icon="@drawable/ic_launcher" />
         <activity
-            android:name="com.example.hampi.musicemlogin.ui.tv.TvBrowseActivity"
+            android:name="com.major.project.musicem.ui.tv.TvBrowseActivity"
             android:label="@string/app_name"
             android:theme="@style/Theme.UAmp.TVLeanback" >
             <intent-filter>
@@ -118,12 +118,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.hampi.musicemlogin.ui.tv.TvVerticalGridActivity"
-            android:parentActivityName="com.example.hampi.musicemlogin.ui.tv.TvBrowseActivity"
+            android:name="com.major.project.musicem.ui.tv.TvVerticalGridActivity"
+            android:parentActivityName="com.major.project.musicem.ui.tv.TvBrowseActivity"
             android:theme="@style/Theme.UAmp.TVLeanback" />
         <activity
-            android:name="com.example.hampi.musicemlogin.ui.tv.TvPlaybackActivity"
-            android:parentActivityName="com.example.hampi.musicemlogin.ui.tv.TvBrowseActivity"
+            android:name="com.major.project.musicem.ui.tv.TvPlaybackActivity"
+            android:parentActivityName="com.major.project.musicem.ui.tv.TvBrowseActivity"
             android:theme="@style/Theme.UAmp.TVLeanback" />
 
         <meta-data
@@ -137,7 +137,7 @@
             android:resource="@style/WearTheme" />
 
         <service
-            android:name="com.example.hampi.musicemlogin.MusicService"
+            android:name="com.major.project.musicem.MusicService"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.media.browse.MediaBrowserService" />
@@ -146,16 +146,16 @@
 
         <meta-data
             android:name="com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME"
-            android:value="com.example.hampi.musicemlogin.CastOptionsProvider" />
+            android:value="com.major.project.musicem.CastOptionsProvider" />
 
         <activity
-            android:name="com.example.hampi.musicemlogin.ui.FullScreenPlayerActivity"
+            android:name="com.major.project.musicem.ui.FullScreenPlayerActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
-            android:parentActivityName="com.example.hampi.musicemlogin.ui.MusicPlayerActivity" >
+            android:parentActivityName="com.major.project.musicem.ui.MusicPlayerActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".ui.MusicPlayerActivity" />
+                android:value="com.major.project.musicem.ui.MusicPlayerActivity" />
         </activity>
 
         <receiver android:name="android.support.v4.media.session.MediaButtonReceiver" >
@@ -164,7 +164,7 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name="com.example.hampi.musicemlogin.AboutActivity" />
+        <activity android:name="com.major.project.musicem.AboutActivity" />
 
         <meta-data
             android:name="android.support.VERSION"
@@ -226,7 +226,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
         -->
         <provider
             android:name="com.facebook.internal.FacebookInitProvider"
-            android:authorities="com.example.hampi.musicemlogin.FacebookInitProvider"
+            android:authorities="com.major.project.musicem.FacebookInitProvider"
             android:exported="false" />
 
         <activity
@@ -241,7 +241,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.example.hampi.musicemlogin" />
+                <category android:name="com.major.project.musicem" />
             </intent-filter>
         </receiver>
         <!--
@@ -258,7 +258,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.example.hampi.musicemlogin.firebaseinitprovider"
+            android:authorities="com.major.project.musicem.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
     </application>

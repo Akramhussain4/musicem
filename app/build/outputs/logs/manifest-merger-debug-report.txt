@@ -68,7 +68,7 @@ INJECTED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml
 INJECTED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
 INJECTED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:2:1-153:12
 	package
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:4:5-45
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:4:5-40
 		INJECTED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml
 		INJECTED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -243,10 +243,10 @@ MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Huss
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:33:13-66
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:32:13-58
-activity#com.example.hampi.musicemlogin.LoginActivity
+activity#com.major.project.musicem.LoginActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:35:9-41:20
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:35:19-48
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:35:19-73
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
@@ -257,30 +257,30 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:39:27-74
-activity#com.example.hampi.musicemlogin.MainActivity
+activity#com.major.project.musicem.MainActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:42:9-45:59
 	android:screenOrientation
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:44:13-49
 	android:theme
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:45:13-56
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:43:13-41
-activity#com.example.hampi.musicemlogin.SignupActivity
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:43:13-66
+activity#com.major.project.musicem.SignupActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:46:9-49:59
 	android:screenOrientation
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:48:13-49
 	android:theme
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:49:13-56
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:47:13-43
-activity#com.example.hampi.musicemlogin.ResetPasswordActivity
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:47:13-68
+activity#com.major.project.musicem.ResetPasswordActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:50:9-53:59
 	android:screenOrientation
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:52:13-49
 	android:theme
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:53:13-56
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:51:13-50
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:51:13-75
 meta-data#com.facebook.sdk.ApplicationId
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:55:9-57:55
 	android:value
@@ -323,60 +323,60 @@ data
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:72:17-75
 	android:scheme
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:72:23-72
-activity#com.example.hampi.musicemlogin.ui.MusicPlayerActivity
+activity#com.major.project.musicem.ui.MusicPlayerActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:75:9-85:20
 	android:label
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:77:13-45
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:76:13-51
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:76:13-76
 intent-filter#android.intent.category.DEFAULT+android.media.action.MEDIA_PLAY_FROM_SEARCH
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:80:13-84:29
 action#android.media.action.MEDIA_PLAY_FROM_SEARCH
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:81:17-86
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:81:25-83
-activity#com.example.hampi.musicemlogin.ui.PlaceholderActivity
+activity#com.major.project.musicem.ui.PlaceholderActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:86:9-88:57
 	android:label
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:88:13-45
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:87:13-51
-activity#com.example.hampi.musicemlogin.ui.NowPlayingActivity
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:87:13-76
+activity#com.major.project.musicem.ui.NowPlayingActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:89:9-91:61
 	android:icon
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:91:13-49
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:90:13-50
-activity#com.example.hampi.musicemlogin.ui.tv.TvBrowseActivity
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:90:13-75
+activity#com.major.project.musicem.ui.tv.TvBrowseActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:92:9-101:20
 	android:label
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:94:13-45
 	android:theme
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:95:13-57
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:93:13-51
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:93:13-76
 intent-filter#android.intent.action.MAIN+android.intent.category.LEANBACK_LAUNCHER
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:96:13-100:29
 category#android.intent.category.LEANBACK_LAUNCHER
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:99:17-86
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:99:27-83
-activity#com.example.hampi.musicemlogin.ui.tv.TvVerticalGridActivity
+activity#com.major.project.musicem.ui.tv.TvVerticalGridActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:102:9-105:60
 	android:parentActivityName
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:104:13-65
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:104:13-90
 	android:theme
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:105:13-57
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:103:13-57
-activity#com.example.hampi.musicemlogin.ui.tv.TvPlaybackActivity
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:103:13-82
+activity#com.major.project.musicem.ui.tv.TvPlaybackActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:106:9-109:60
 	android:parentActivityName
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:108:13-65
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:108:13-90
 	android:theme
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:109:13-57
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:107:13-53
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:107:13-78
 meta-data#com.google.android.gms.car.notification.SmallIcon
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:111:9-113:60
 	android:resource
@@ -395,14 +395,14 @@ ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:11
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:119:13-48
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:118:13-67
-service#com.example.hampi.musicemlogin.MusicService
+service#com.major.project.musicem.MusicService
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:121:9-128:19
 	android:exported
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:123:13-36
 	tools:ignore
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:124:13-43
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:122:13-41
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:122:13-66
 intent-filter#android.media.browse.MediaBrowserService
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:125:13-127:29
 action#android.media.browse.MediaBrowserService
@@ -410,25 +410,25 @@ ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:12
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:126:25-80
 meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
-ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:130:9-132:82
+ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:130:9-132:77
 	android:value
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:132:13-79
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:132:13-74
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:131:13-93
-activity#com.example.hampi.musicemlogin.ui.FullScreenPlayerActivity
+activity#com.major.project.musicem.ui.FullScreenPlayerActivity
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:134:9-142:20
 	android:parentActivityName
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:138:13-65
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:138:13-90
 	android:label
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:136:13-45
 	android:launchMode
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:137:13-43
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:135:13-56
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:135:13-81
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:139:13-141:59
+ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:139:13-141:84
 	android:value
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:141:17-56
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:141:17-81
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:140:17-63
 receiver#android.support.v4.media.session.MediaButtonReceiver
@@ -441,10 +441,10 @@ action#android.intent.action.MEDIA_BUTTON
 ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:146:17-77
 	android:name
 		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:146:25-74
-activity#com.example.hampi.musicemlogin.AboutActivity
-ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:150:9-60
+activity#com.major.project.musicem.AboutActivity
+ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:150:9-85
 	android:name
-		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:150:19-48
+		ADDED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml:150:19-73
 uses-sdk
 INJECTED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\IMP DATA\Major Project\musicem\app\src\main\AndroidManifest.xml
@@ -705,7 +705,7 @@ ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\ca
 		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:25:72-107
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:25:17-71
-permission#com.example.hampi.musicemlogin.permission.C2D_MESSAGE
+permission#com.major.project.musicem.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:25:5-109
 	android:protectionLevel
 		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:25:72-107
@@ -715,7 +715,7 @@ uses-permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:27:5-78
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:27:22-76
-uses-permission#com.example.hampi.musicemlogin.permission.C2D_MESSAGE
+uses-permission#com.major.project.musicem.permission.C2D_MESSAGE
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:27:5-78
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:27:22-76
@@ -729,7 +729,7 @@ ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\ca
 		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:31:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:32:13-35:29
-intent-filter#com.example.hampi.musicemlogin+com.google.android.c2dm.intent.RECEIVE
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.major.project.musicem
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:32:13-35:29
 action#com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:33:17-80
@@ -739,7 +739,7 @@ category#${applicationId}
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:34:17-60
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:34:27-58
-category#com.example.hampi.musicemlogin
+category#com.major.project.musicem
 ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:34:17-60
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Hussain\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\9b6b427e0500ca2101b2c0645ac74356\AndroidManifest.xml:34:27-58

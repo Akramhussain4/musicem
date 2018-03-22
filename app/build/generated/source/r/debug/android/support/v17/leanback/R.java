@@ -678,7 +678,7 @@ public final class R {
         public static final int control_bar = 0x7f13015d;
         public static final int controls_card = 0x7f1301af;
         public static final int controls_card_right_panel = 0x7f1301b0;
-        public static final int controls_container = 0x7f130107;
+        public static final int controls_container = 0x7f130108;
         public static final int controls_dock = 0x7f1301b2;
         public static final int current_time = 0x7f1301ad;
         public static final int description = 0x7f130199;

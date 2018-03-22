@@ -8,20 +8,8 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\interpolator\\mr_linear_out_slow_in.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\generic_confirmation_animation_interpolator_0.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\generic_confirmation_animation_interpolator_0.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\interpolator\\mr_fast_out_slow_in.xml"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\open_on_phone_animation_interpolator_1.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\open_on_phone_animation_interpolator_1.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\generic_confirmation_animation_interpolator_2.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\generic_confirmation_animation_interpolator_2.xml"
     },
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\open_on_phone_animation_interpolator_0.xml",
@@ -32,23 +20,7 @@
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\interpolator\\mr_fast_out_slow_in.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\open_on_phone_animation_interpolator_0.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\open_on_phone_animation_interpolator_0.xml"
-    },
-    {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\generic_confirmation_animation_interpolator_1.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\generic_confirmation_animation_interpolator_1.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\generic_confirmation_animation_interpolator_3.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\generic_confirmation_animation_interpolator_3.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\054490d056d1d9b176e412225ee3c887\\res\\interpolator\\mr_linear_out_slow_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\generic_confirmation_animation_interpolator_1.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\generic_confirmation_animation_interpolator_1.xml"
     },
     {
@@ -58,9 +30,5 @@
     {
         "merged": "D:\\IMP DATA\\Major Project\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\generic_confirmation_animation_interpolator_3.xml",
         "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\generic_confirmation_animation_interpolator_3.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\musicem\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\open_on_phone_animation_interpolator_1.xml",
-        "source": "C:\\Users\\Hussain\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-1.3.0.aar\\dfc8c9784b41065f141eb1aff7d5207f\\res\\interpolator\\open_on_phone_animation_interpolator_1.xml"
     }
 ]

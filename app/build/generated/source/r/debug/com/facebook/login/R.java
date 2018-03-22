@@ -708,14 +708,14 @@ public final class R {
         public static final int com_facebook_body_frame = 0x7f13013a;
         public static final int com_facebook_button_xout = 0x7f13013c;
         public static final int com_facebook_device_auth_instructions = 0x7f130135;
-        public static final int com_facebook_fragment_container = 0x7f130132;
+        public static final int com_facebook_fragment_container = 0x7f130133;
         public static final int com_facebook_login_fragment_progress_bar = 0x7f130137;
         public static final int com_facebook_smart_instructions_0 = 0x7f130138;
         public static final int com_facebook_smart_instructions_or = 0x7f130139;
         public static final int com_facebook_tooltip_bubble_view_bottom_pointer = 0x7f13013e;
         public static final int com_facebook_tooltip_bubble_view_text_body = 0x7f13013d;
         public static final int com_facebook_tooltip_bubble_view_top_pointer = 0x7f13013b;
-        public static final int confirmation_code = 0x7f130133;
+        public static final int confirmation_code = 0x7f130134;
         public static final int contentPanel = 0x7f1300c6;
         public static final int custom = 0x7f1300cd;
         public static final int customPanel = 0x7f1300cc;
@@ -752,7 +752,7 @@ public final class R {
         public static final int open_graph = 0x7f1300a0;
         public static final int page = 0x7f1300a1;
         public static final int parentPanel = 0x7f1300c5;
-        public static final int progress_bar = 0x7f130134;
+        public static final int progress_bar = 0x7f130104;
         public static final int progress_circular = 0x7f13003a;
         public static final int progress_horizontal = 0x7f13003b;
         public static final int radio = 0x7f1300d5;

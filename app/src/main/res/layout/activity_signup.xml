@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.hampi.musicemlogin.SignupActivity"
+    tools:context="com.major.project.musicem.SignupActivity"
     android:background="#f8f8f8">
 
 
